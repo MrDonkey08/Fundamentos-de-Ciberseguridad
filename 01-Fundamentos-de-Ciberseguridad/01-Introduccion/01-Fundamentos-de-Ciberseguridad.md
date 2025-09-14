@@ -75,22 +75,26 @@ al experto en ciberseguridad priorizar acciones cuando se protege a un sistema:
 - **Confidencialidad**: Conjunto de reglas que garantizan que la información
   sensible sea revelada solo a personas, recursos, y procesos autorizados.
   Algunos métodos para asegurar la _confidencialidad_ son:
-  - Encriptación de los datos.
+  - Encriptación de los datos (e.g., AES para almacenamiento o transmisión)
   - Comprobación de la identidad mediante controles de acceso (lógicos y
     físicos).
   - Autenticación multifactor (MFA), o autenticación de dos factores (2FA)".
+  - Least Privilage Access (LPA), o Principio del Mínimo Acceso
 
 - **Integridad**: Asegura que los datos de un sistema no sean modificados de
-  manera accidental o intencional (e.g., por personas no autorizadas). Algunos
-  métodos para asegurar la _integridad_ son:
+  manera accidental o intencional (e.g., por personas no autorizadas). También
+  implica que cualquier modificación legítima sea rastreable. Algunos métodos
+  para asegurar la _integridad_ son:
   - Funciones hash criptográficas (e.g., SHA-256)
   - Firmas digitales
   - Checksums
+  - Control de versiones (e.g., Git)
 
 - **Disponibilidad**: Se refiere a que los usuarios autorizados sean capaces de
-  acceder a los sistemas y los datos cuando y donde sean necesarios. Algunos
-  métodos para asegurar la _integridad_ son:
-  - Redundancia
+  acceder a los sistemas y los datos cuando y donde sean necesarios. Se busca
+  minimizar interrupciones por fallos técnicos, ataques (e.g., DDoS), errores
+  humanos, o desastres. Algunos métodos para asegurar la _integridad_ son:
+  - Redundancia y tolerancia al fallo
   - Respaldos de los datos y sistemas de información (e.g., bases de datos)
   - Actualización del software y los sistemas operativos, especialmente de los
     parches de seguridad
@@ -111,6 +115,9 @@ representa los tres estados posibles de los datos:
 
 - **En transmisión o tránsito**: Datos que viajan entre sistemas de información,
   tal como datos viajando en redes.
+
+Como profesionales de ciberseguridad debemos garantizar la seguridad de datos en
+cada uno de sus estados.
 
 #### Protección de los datos
 
@@ -220,3 +227,5 @@ personales y datos organizativos.
 - <https://www.netacad.com/launch?id=4ab42845-d7db-4c94-b8f1-5b5d2fdcb79b&tab=curriculum&view=91d46f8f-195f-50b1-8aeb-01f35676c080>
 
 - <https://www.coursera.org/learn/manage-security-risks/lecture/QsFVe/threats-risks-and-vulnerabilities>
+
+- <https://www.coursera.org/learn/foundations-of-cybersecurity/lecture/wxo04/secure-design>

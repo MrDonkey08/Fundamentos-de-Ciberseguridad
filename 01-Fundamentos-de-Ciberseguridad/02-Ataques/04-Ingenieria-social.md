@@ -15,11 +15,18 @@ Existen muchos tipos de ingeniería, entre ellas se encuentran:
     malware para que un empleado la encuentre y la instale en un equipo para que
     inconscientemente infecte una red.
 
-- **Pretexting**: Cuando un atacante llama a un individuo y les miente con la
-  intención conseguir acceso a datos privilegiados.
+- **Pretexting**: Cuando un atacante le miente a un individuo con la intención
+  conseguir acceso a datos privilegiados o de que el individuo realice alguna
+  acción en concreto (e.g., enviar dinero).
 
 - **Tailgating/Piggybacking**: Cuando un atacante sigue a una persona autorizada
   para ganar acceso a un lugar seguro o a una área restringida.
+
+  > [!NOTE]
+  >
+  > El término **tailgating** y **piggybacking** se utilizan de la misma manera.
+  > Sin embargo, **tailgating** es cuando una persona autorizada no es cómplice
+  > del atacante, mientras que **piggybacking** lo es.
 
 - **Dumpster diving**: Es la acción de buscar en la basura de la organización
   dispositivos, papeles o cualquier cosa con el fin de encontrar información

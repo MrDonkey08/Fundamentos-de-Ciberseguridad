@@ -7,6 +7,23 @@ negativamente a los activos.
 
 ### Tipos de amenazas
 
+- Malware
+- Ataques
+  - Ataques de red
+  - Ataques físicos
+  - Ataques de ingeniería social
+    - Phishing
+  - Ataques de contraseñas
+  - Explotación de vulnerabilidades zero-day
+
+### Actores de amenaza
+
+Un **threat actor**, o **actor de amenaza** es cualquier persona o grupo de
+personas que presenta un riesgo de seguridad. Un actor de amenaza comprende
+tanto **actores maliciosos (atacantes)** como **actores no maliciosos** (o no
+mal intencionados). Este riesgo puede relacionarse con computadoras,
+aplicaciones, redes y datos.
+
 #### Amenazas internas
 
 Las **amenazas internas** son usualmente realizadas por empleados y
@@ -18,8 +35,8 @@ intencionalmente:
 - Facilitar ataques externos al conectar una memoria USB infectada en la
   computadora del sistema de la organización
 
-- Introducir malware en la red de la organización al hacer click en emails o
-  sitios web
+- Introducir malware en la red de la organización al hacer clic en emails o
+  sitios web maliciosos
 
 - Amenazar las operaciones de servidores internos o dispositivos de la
   infraestructura de red
@@ -30,7 +47,7 @@ datos que pueden dañar a una organización. Sus intenciones pueden incluir:
 - Sabotaje
 - Corrupción
 - Espionaje
-- Acceso de datos no autorizados
+- Acceso de datos no autorizado
 - Filtración de datos
 
 #### Amenazas externas
@@ -46,78 +63,101 @@ expertos fuera de la organización al:
 #### APT
 
 Los **advanced persistent threats (APTs)** o **amenazas persistentes avanzadas**
-tienen un a gran experiencia en acceder a la red de la organización sin
+tienen una gran experiencia en acceder a la red de la organización sin
 autorización. Las APT tienden a investigar a sus objetivos (e.g., grandes
 empresas o entidades gubernamentales) con antelación y pueden permanecer
-indetectados for un período extenso de tiempo. Sus motivaciones pueden incluir:
+indetectados por un período extenso de tiempo. Sus motivaciones pueden incluir:
 
-- Dañar la infraestructura crítica, tal como la planta de energía y los recursos
+- Dañar la infraestructura crítica, tal como plantas de energía y recursos
   naturales
-
 - Ganar acceso a propiedad intelectual, tal como secretos de negocios o patentes
 
 ## Riesgos
 
-Un **riesgo** es cualquier evento que puede impactar a la confidencialidad,
-integridad y disponibilidad de un activo. Una fórmula básica de determinar el
-nivel de riesgo es que el riesgo es equivalente a la probabilidad de una
-amenaza.
+Un **riesgo** es la probabilidad de que una amenaza explote una vulnerabilidad y
+cause daño a un activo. Se calcula como:
 
-Hay diferentes factores que pueden afectar a la probabilidad de que se produzca
-un riesgo para los activos de una organización, entre ellos:
+$$ \text{Riesgo} = \text{Amenaza} \times \text{Vulnerabilidad} \times
+\text{Impacto}$$
 
-- **Riesgos externos**: Cualquier cosa fuera de la organización que tiene
-  potencial para dañar a los activos, tal como actores de amenaza intentando
-  ganar acceso a información privada.
+**Riesgo = Amenaza × Vulnerabilidad × Impacto**.
 
-- **Riesgos internos**: Un empleado, ex-empleado, socio de confianza, o personal
-  contratado que posee un riesgo de seguridad.
+### Gestión de riesgos
 
-- **Sistemas Legacy**: Sistemas viejos que pueden no estar contabilizados o
-  actualizados, pero que aún puede afectar a los activos (e.g., estaciones de
-  trabajo, sistemas mainframes viejos).
+- **Identificar** los riesgos dentro de un sistema
 
-- **Riesgo multiparte**: Contratar servicios a terceros puede darles acceso a
-  propiedad intelectual, tal como secretos comerciales, diseños de software, e
-  invenciones.
+- **Evaluar** la probabilidad y la severidad (o nivel de impacto) de cada uno de
+  los riesgos. La evaluación de riesgos se puede llevar a cabo mediante una
+  matriz de probabilidad/severidad
 
-- **Software compliance/licensing**: Software que nos es actualizado o no cumple
-  la normativa, o parches que no son instalados a tiempo.
+- **Prioritizar** los riesgos, determinar cuáles riesgos atender primero o
+  darles mayor importancia
+
+- **Controlar** los riesgos, tomar acciones para disminuir la probabilidad y la
+  severidad de los riesgos
+
+> [!TIP]
+>
+> Se recomienda seguir el **Risk Management Framework**, el cual es un estándar
+> en ciberseguridad que establece cómo llevar a cabo una gestión de riesgos de
+> manera eficaz.
 
 ## Vulnerabilidades
 
 Una **vulnerabilidad** es una debilidad que puede ser explotada por una amenaza.
 Por lo tanto, las organizaciones deben inspeccionar regularmente las
-vulnerabilidades de sus sistemas. Algunas vulnerabilidades incluyen:
+vulnerabilidades de sus sistemas.
+
+### Tipos de vulnerabilidades
+
+- **Contraseñas débiles**: Contraseñas comunes, cortas, patrones o secuencias
+  numéricas o alfabéticas; contraseñas asociadas con datos personales (PII),
+  datos de la cuenta (e.g., nombre de usuario o correo), de la empresa (e.g.,
+  nombre de la empresa), del servicio (e.g., Netflix), del dispositivo (e.g.,
+  router)
+
+- **Sistemas sin parchear**: Sistemas que siguen teniendo soporte, pero no se
+  les aplican parches de seguridad
+
+- **Hardware desactualizado**: El hardware viejo puede ser propenso a
+  vulnerabilidades de hardware y/o puede ya no tener soporte para parches de
+  seguridad
+
+- **Protocolos inseguros**: Protocolos que no garantizan la triada CID (e.g.,
+  Telnet, HTTP, FTP)
+
+- **Configuraciones débiles o por defecto**: Fáciles de descubrir por
+  documentación oficial o externa. También incluye **contraseñas por defecto**
+
+- **Sistemas legacy**: Sistemas que ya no tienen soporte del fabricante, es
+  decir, ya no reciben parches de seguridad
+
+### Vulnerabilidades de software específicas
 
 - **ProxyLogon**: Una vulnerabilidad pre-autenticada que afecta al servidor
-  Microsoft Exchange. Esto significa que un actor de amenazas puede completar un
-  proceso de autenticación de usuario para desplegar código malicioso desde una
-  ubicación remota.
+  Microsoft Exchange. Permite a un actor de amenazas autenticarse sin
+  credenciales válidas para desplegar código malicioso desde una ubicación
+  remota
 
-- **Zerologon**: Una vulnerabilidad en el protocolo de autenticación Netlogon de
-  Microsoft. Un protocolo de autenticación es una forma de verificar la
-  identidad de una persona. Netlogon es un servicio que garantiza la identidad
-  de un usuario antes de permitirle el acceso a la ubicación de un sitio web.
+- **Zerologon**: Una vulnerabilidad crítica en el protocolo de autenticación
+  Netlogon de Microsoft que permite a atacantes remotos obtener privilegios de
+  administrador de dominio sin credenciales válidas
 
-- **Log4Shell**: Permite a los atacantes ejecutar código Java en el ordenador de
-  otra persona o filtrar información sensible. Para ello, permite a un atacante
-  remoto tomar el control de dispositivos conectados a Internet y ejecutar
-  código malicioso.
+- **Log4Shell**: Vulnerabilidad de ejecución remota de código en la librería
+  Apache Log4j que permite a atacantes ejecutar código Java arbitrario en
+  sistemas remotos
 
-- **PetitPotam**: PetitPotam: Afecta al administrador de redes de área local
-  (LAN) de nueva tecnología de Windows (NTLM). Se trata de una técnica de robo
-  que permite a un atacante basado en LAN iniciar una solicitud de
-  autenticación.
+- **PetitPotam**: Vulnerabilidad que explota el protocolo MS-EFSRPC para forzar
+  autenticación NTLM desde controladores de dominio Windows, permitiendo ataques
+  de relay NTLM
 
 - **Fallos en el registro y el monitoreo de la seguridad**: Capacidades de
-  registro y supervisión insuficientes que dan lugar a que los atacantes
-  exploten las vulnerabilidades sin que la organización se entere.
+  registro y supervisión insuficientes que permiten que los atacantes exploten
+  vulnerabilidades sin detección
 
-- **Falsificación de peticiones del lado del servidor**: Permite a los atacantes
-  manipular una aplicación del lado del servidor para acceder y actualizar
-  recursos de backend. También puede permitir a los actores de amenazas robar
-  datos.
+- **Server-Side Request Forgery (SSRF)**: Permite a los atacantes manipular una
+  aplicación del lado del servidor para realizar peticiones HTTP a recursos
+  internos no autorizados
 
 ## Referencias
 
