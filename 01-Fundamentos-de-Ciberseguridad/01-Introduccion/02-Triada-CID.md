@@ -2,9 +2,9 @@
 
 ## Confidencialidad
 
-Para alcanzar la confidencialidad sin usar encriptación, la **tokenización** es
-una técnica de sustitución que puede aislar elementos de datos de la exposición
-a otros sistemas de datos. Un valor aleatorio con una relación no matemática
+Para alcanzar la confidencialidad sin usar cifrado, la **tokenización** es una
+técnica de sustitución que puede aislar elementos de datos de la exposición a
+otros sistemas de datos. Un valor aleatorio con una relación no matemática
 remplaza los datos originales. Fuera del sistema, un token no tiene valor y es
 insignificativo. La tokenización puede preservar el formato de datos (su tipo y
 el tamaño del dato), lo cual lo hace útil para bases de datos y procesamiento de
@@ -12,13 +12,12 @@ pago de tarjetas.
 
 La gestión de los derechos cubre ambos la **gestión de los derechos de autor
 (DRM)** y la **información de los derechos de autor (IRM)**. Ambos protegen
-datos de acceso no autorizado al utilizar encriptación
+datos de acceso no autorizado al utilizar cifrado
 
 DMR protege material con copyright tal como música, películas, o libros. Cuando
-tal contenido aparece en forma digital (e.g., en CD, mp3, o e-book) es
-encriptado para que los medios no puedan ser copiados con la llave de
-desencriptado. La llave de desencriptado solo está disponible para las partes
-licenciadas.
+tal contenido aparece en forma digital (e.g., en CD, mp3, o e-book) es cifrado
+para que los medios no puedan ser copiados con la llave de descifrado. La llave
+de descifrado solo está disponible para las partes licenciadas.
 
 IRM es usado con el email y otros archivos que son relevantes a las actividades
 y comunicaciones de una organización. Cuando esta información es compartida con

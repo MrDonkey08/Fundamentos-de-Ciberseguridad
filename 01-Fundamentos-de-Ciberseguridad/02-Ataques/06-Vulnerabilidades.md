@@ -39,9 +39,9 @@ Una **vulnerabilidad** es una debilidad que puede ser explotada por una amenaza.
 
 - **Debilidades en prácticas de seguridad**: Los sistemas y los datos sensibles
   pueden ser protegidos mediante técnicas tales como la autenticación, la
-  autorización y la encriptación. Los desarrolladores deberían adherirse al uso
-  de estas técnicas y librerías que ya han sido creadas, testeadas y
-  verificadas, y no deberían intentar crear sus propios algoritmos de seguridad.
+  autorización y el cifrado. Los desarrolladores deberían adherirse al uso de
+  estas técnicas y librerías que ya han sido creadas, testeadas y verificadas, y
+  no deberían intentar crear sus propios algoritmos de seguridad.
 
 - **Problemas del control de accesos**: El **control de accesos** es el proceso
   de controlar a qué puede acceder un usuario, cuándo puede hacerlo y qué puede

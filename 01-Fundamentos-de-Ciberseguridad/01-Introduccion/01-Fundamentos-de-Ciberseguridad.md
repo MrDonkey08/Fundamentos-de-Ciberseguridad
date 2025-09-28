@@ -75,7 +75,7 @@ al experto en ciberseguridad priorizar acciones cuando se protege a un sistema:
 - **Confidencialidad**: Conjunto de reglas que garantizan que la información
   sensible sea revelada solo a personas, recursos, y procesos autorizados.
   Algunos métodos para asegurar la _confidencialidad_ son:
-  - Encriptación de los datos (e.g., AES para almacenamiento o transmisión)
+  - Cifrado de los datos (e.g., AES para almacenamiento o transmisión)
   - Comprobación de la identidad mediante controles de acceso (lógicos y
     físicos).
   - Autenticación multifactor (MFA), o autenticación de dos factores (2FA)".
@@ -137,7 +137,7 @@ y la infraestructura en el campo digital.
   para proteger los sistemas de información. Por ejemplo:
   - Firewalls
   - Sistemas de detección/prevención de intrusos (IDS/IPS)
-  - Encriptación
+  - Cifrado
   - Soluciones EDR
   - SIEM
   - Herramientas de gestión de parches.

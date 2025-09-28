@@ -193,7 +193,7 @@ almacenarlas.
 
 - No escribir contraseñas en físico o en archivos de texto plano. Si debes
   guardarlas, hazlo de forma cifrada:
-  - Archivos encriptados (e.g., [VeraCrypt](https://veracrypt.io/en/Home.html),
+  - Archivos cifrados (e.g., [VeraCrypt](https://veracrypt.io/en/Home.html),
     [GnuPG](https://gnupg.org/))
 
   - Gestores de contraseñas (e.g., [KeePass](https://keepass.info/),
