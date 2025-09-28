@@ -134,33 +134,6 @@ vulnerabilidades de sus sistemas.
 - **Sistemas legacy**: Sistemas que ya no tienen soporte del fabricante, es
   decir, ya no reciben parches de seguridad
 
-### Vulnerabilidades de software específicas
-
-- **ProxyLogon**: Una vulnerabilidad pre-autenticada que afecta al servidor
-  Microsoft Exchange. Permite a un actor de amenazas autenticarse sin
-  credenciales válidas para desplegar código malicioso desde una ubicación
-  remota
-
-- **Zerologon**: Una vulnerabilidad crítica en el protocolo de autenticación
-  Netlogon de Microsoft que permite a atacantes remotos obtener privilegios de
-  administrador de dominio sin credenciales válidas
-
-- **Log4Shell**: Vulnerabilidad de ejecución remota de código en la librería
-  Apache Log4j que permite a atacantes ejecutar código Java arbitrario en
-  sistemas remotos
-
-- **PetitPotam**: Vulnerabilidad que explota el protocolo MS-EFSRPC para forzar
-  autenticación NTLM desde controladores de dominio Windows, permitiendo ataques
-  de relay NTLM
-
-- **Fallos en el registro y el monitoreo de la seguridad**: Capacidades de
-  registro y supervisión insuficientes que permiten que los atacantes exploten
-  vulnerabilidades sin detección
-
-- **Server-Side Request Forgery (SSRF)**: Permite a los atacantes manipular una
-  aplicación del lado del servidor para realizar peticiones HTTP a recursos
-  internos no autorizados
-
 ## Referencias
 
 - Google (s.f.). _Threats, risks, and vulnerabilities_.
