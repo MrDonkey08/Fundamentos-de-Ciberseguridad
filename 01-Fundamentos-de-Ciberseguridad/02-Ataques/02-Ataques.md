@@ -4,7 +4,9 @@ Un **ataque** es un intento intencionado de aprovechar alguna vulnerabilidad de
 un sistema con el fin de conseguir un bien o servicio o dañar de alguna manera
 al negocio o empresa detrás del sistema.
 
-## Ataques de red
+## Tipos de ataques
+
+### Ataques de red
 
 - **DoS**: Los ataques de **denegación de servicios** o **denial of service
   (DoS)** son un tipo de ataque de red que son relativamente simples de llevar a
@@ -115,7 +117,7 @@ packet switching para recibir y compartir datos hacia el dispositivo destino. El
 **MAC flooding** es cuando un atacante inunda la red con direcciones MAC falsas,
 comprometiendo la seguridad de la red switch.
 
-## Ataques de contraseñas
+### Ataques de contraseñas
 
 Los **ataques de contraseñas** consisten en intentar conseguir acceso a
 dispositivos, sistemas, redes o datos protegidos con contraseñas. Algunos tipos
@@ -144,13 +146,35 @@ de ataques de contraseñas son:
   HTTP), es decir, sin cifrar (como lo haría HTTPS), se pueden leer las
   credenciales del usuario.
 
-## Ataques físicos
+### Ataques físicos
 
-- **Malicious USB cable**
-- **Malicious flash drive**
-- **Card cloning and skimming**
+- **Cables maliciosos:** Cables que han sido modificados internamente para
+  incluir componentes electrónicos maliciosos (e.g., chips, transmisores) que
+  pueden interceptar datos, inyectar malware o comprometer dispositivos al ser
+  conectados.
 
-## Ataques criptográficos
+- **Memoria USB maliciosa:** Dispositivos de almacenamiento USB que contienen
+  malware o están programados para ejecutar automáticamente scripts maliciosos
+  al ser conectados a una computadora. Pueden utilizarse para infectar sistemas,
+  robar información sensible o establecer acceso remoto no autorizado.
+
+- **Clonación de tarjetas:** Conjunto de técnicas y ataques que emplean
+  dispositivos especializados para copiar la información almacenada en tarjetas
+  magnéticas o con chip (e.g., tarjetas de crédito, tarjetas de acceso,
+  identificaciones corporativas). El objetivo es crear duplicados funcionales
+  para acceso no autorizado.
+  - **Skimmer:** Dispositivo físico o electrónico diseñado para capturar
+    fraudulentamente la información de tarjetas de crédito o débito. Se instalan
+    de manera encubierta en lectores legítimos como cajeros automáticos,
+    terminales punto de venta (POS) o lectores de tarjetas de acceso,
+    permitiendo el robo de datos de la banda magnética o chip.
+
+- **Clonación de llaves:** Técnicas utilizadas para duplicar llaves físicas sin
+  autorización, incluyendo métodos como el robo temporal para crear copias,
+  fotografía de llaves para reproducción posterior, o uso de herramientas de
+  impresión para generar duplicados basándose en patrones visuales.
+
+### Ataques criptográficos
 
 Un **ataque criptográfico** afecta a las formas comunicación seguras entre un
 emisor y un receptor. Algunos tipos de ataques criptográficos son:
@@ -159,7 +183,7 @@ emisor y un receptor. Algunos tipos de ataques criptográficos son:
 - Collision
 - Downgrade
 
-## Más tipos de ataques
+### Más tipos de ataques
 
 - **SEO poisoning**: El **search engine optimización (SEO)** o optimización del
   motor de búsqueda es, en simples términos, la aplicación de técnicas y
