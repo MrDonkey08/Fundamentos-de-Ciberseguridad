@@ -79,6 +79,8 @@ indetectados for un período extenso de tiempo. Sus motivaciones pueden incluir:
 
 ## Referencias
 
-- <https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/E8Js9/understand-attackers>
+- Google (s.f.). _Understand attackers_.
+  <https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/E8Js9/understand-attackers>
 
-- <https://www.netacad.com/launch?id=dc0847b7-d6fc-4597-bc31-38ddd6b07a2f&tab=curriculum&view=e5fde361-8c73-5b81-99a0-28acf6546fd2>
+- NetAcad (s.f.). _1.4 Cyber Attackers_.
+  <https://www.netacad.com/launch?id=dc0847b7-d6fc-4597-bc31-38ddd6b07a2f&tab=curriculum&view=4e8a0baa-d5b9-5f43-b61c-869857aa5571>

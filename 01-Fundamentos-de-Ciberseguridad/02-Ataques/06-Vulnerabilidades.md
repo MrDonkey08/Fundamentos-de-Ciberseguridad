@@ -138,6 +138,7 @@ Una **vulnerabilidad** es una debilidad que puede ser explotada por una amenaza.
 
 ## Referencias
 
-- <https://www.netacad.com/launch?id=4ab42845-d7db-4c94-b8f1-5b5d2fdcb79b&tab=curriculum&view=2051f234-b3da-559c-8f85-051a18461925>
+- NetAcad (s.f.). _2.5 Application Attacks_.
+  <https://www.netacad.com/launch?id=fa6ac75d-3afd-4bde-93f5-f164d8253ab6&tab=curriculum&view=2051f234-b3da-559c-8f85-051a18461925>
 
-- <https://roadmap.sh/cyber-security>
+- Roadmap (s.f.). _Cyber Security Expert_. <https://roadmap.sh/cyber-security>

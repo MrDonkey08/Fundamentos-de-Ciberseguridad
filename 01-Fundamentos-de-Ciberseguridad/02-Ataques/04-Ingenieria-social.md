@@ -141,12 +141,16 @@ Algunos motivos del porqué los ataques de ingeniería social son efectivos son:
 
 ## Referencias
 
-- <https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/2ys9Q/common-attacks-and-their-effectiveness>
+- Google (s.f.). _Common attacks and their effectiveness_.
+  <https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/2ys9Q/common-attacks-and-their-effectiveness>
 
-- <https://www.netacad.com/launch?id=4ab42845-d7db-4c94-b8f1-5b5d2fdcb79b&tab=curriculum&view=a6ccac97-2fb8-5fd2-b018-a5d463bbdce1>
+- Netacad (s.f.). _2.2 Deception_.
+  <https://www.netacad.com/launch?id=4ab42845-d7db-4c94-b8f1-5b5d2fdcb79b&tab=curriculum&view=a6ccac97-2fb8-5fd2-b018-a5d463bbdce1>
 
-- <https://www.caeepnc.org/social_engineering/>
+- EPNC (s.f.). _Social Engineering Interactive_.
+  <https://www.caeepnc.org/social_engineering/>
 
-- <https://initiateit.co.uk/2023/05/12/how-to-prepending-external-emails-with-a-caution/>
+- Admin (mayo 12, 2023). _How to: Prepending external emails with a caution_.
+  <https://initiateit.co.uk/2023/05/12/how-to-prepending-external-emails-with-a-caution/>
 
-- <https://roadmap.sh/cyber-security>
+- Roadmap (s.f.). _Cyber Security Expert_. <https://roadmap.sh/cyber-security>

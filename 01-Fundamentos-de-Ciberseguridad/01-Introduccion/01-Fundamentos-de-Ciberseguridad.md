@@ -224,8 +224,11 @@ personales y datos organizativos.
 
 ## Referencias
 
-- <https://www.netacad.com/launch?id=4ab42845-d7db-4c94-b8f1-5b5d2fdcb79b&tab=curriculum&view=91d46f8f-195f-50b1-8aeb-01f35676c080>
+- NetAcad (s.f.). _2.1 Common Threats_.
+  <https://www.netacad.com/launch?id=fa6ac75d-3afd-4bde-93f5-f164d8253ab6&tab=curriculum&view=0a3139ad-4519-5302-9361-df9197388c8d>
 
-- <https://www.coursera.org/learn/manage-security-risks/lecture/QsFVe/threats-risks-and-vulnerabilities>
+- Google (s.f.). _Threats, risks, and vulnerabilities_.
+  <https://www.coursera.org/learn/manage-security-risks/lecture/QsFVe/threats-risks-and-vulnerabilities>
 
-- <https://www.coursera.org/learn/foundations-of-cybersecurity/lecture/wxo04/secure-design>
+- Google (s.f.). _Secure design_.
+  <https://www.coursera.org/learn/foundations-of-cybersecurity/lecture/wxo04/secure-design>

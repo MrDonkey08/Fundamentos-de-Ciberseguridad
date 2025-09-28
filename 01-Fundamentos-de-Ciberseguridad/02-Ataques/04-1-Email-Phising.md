@@ -75,4 +75,5 @@ intento de phishing:
 
 ## Referencias
 
-- <https://www.trendmicro.com/es_mx/what-is/phishing/types-of-phishing.html>
+- Trend (s.f.). _¿Cuáles Son los Distintos Tipos de Phishing?_.
+  <https://www.trendmicro.com/es_mx/what-is/phishing/types-of-phishing.html>

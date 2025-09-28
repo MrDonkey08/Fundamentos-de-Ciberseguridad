@@ -262,18 +262,27 @@ almacenarlas.
 
 - [OWASP - Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
 - [NIST SP 800-63B - Digital Identity Guidelines](https://pages.nist.gov/800-63-3/sp800-63b.html)
-- [Techlore - Software, hardware, and applications](https://techlore.tech/resources/#Software,-hardware-and-applications)
+- [Techlore - Software, hardware and applications](https://techlore.tech/resources/#all-resources)
 - [AlternativeTo](https://alternativeto.net/)
 - [PrivacyTools](https://www.privacytools.io/)
 - [Password Storage Tier List: encryption, hashing, salting, bcrypt, and beyond](https://youtu.be/qgpsIBLvrGY?si=MCw3l9rnIfFu3vid)
 
 ## Referencias
 
-- [https://www.netacad.com/launch?id=dc0847b7-d6fc-4597-bc31-38ddd6b07a2f\&tab=curriculum\&view=4e8899a0-0ace-58d9-b5cd-92f640dcfa08](https://www.netacad.com/launch?id=dc0847b7-d6fc-4597-bc31-38ddd6b07a2f&tab=curriculum&view=4e8899a0-0ace-58d9-b5cd-92f640dcfa08)
-- [https://pages.nist.gov/800-63-3/](https://pages.nist.gov/800-63-3/)
-- [https://proton.me/blog/what-is-password-entropy](https://proton.me/blog/what-is-password-entropy)
-- [https://security.stackexchange.com/questions/257519/how-many-bits-of-entropy-should-a-password-have-to-be-reasonably-future-proof-1](https://security.stackexchange.com/questions/257519/how-many-bits-of-entropy-should-a-password-have-to-be-reasonably-future-proof-1)
-- [https://www.reddit.com/user/atoponce/comments/186u5li/password_length_recommendations/](https://www.reddit.com/user/atoponce/comments/186u5li/password_length_recommendations/)
-- [https://techlore.tech/resources/#2fa](https://techlore.tech/resources/#2fa)
-- [https://techlore.tech/resources/#password-managers](https://techlore.tech/resources/#password-managers)
-- [https://techlore.tech/resources/#encryption](https://techlore.tech/resources/#encryption)
+- NetAcad (s.f.). _3.1 Protecting Your Devices and Network_.
+  <https://www.netacad.com/launch?id=dc0847b7-d6fc-4597-bc31-38ddd6b07a2f&tab=curriculum&view=200e9011-e513-5d25-8d3b-e3d870bd3f5d>
+
+- NIST (s.f.). _Digital Identity Guidelines_. <https://pages.nist.gov/800-63-3/>
+
+- Proton (Octubre 05, 2023) _What is a password entropy?_
+  <https://proton.me/blog/what-is-password-entropy>
+
+- bk2204 (Nov 28, 2021). _How many bits of entropy should a password have to be
+  reasonably future proof (10 years)?_
+  <https://security.stackexchange.com/questions/257519/how-many-bits-of-entropy-should-a-password-have-to-be-reasonably-future-proof-1>
+
+- Atoponce (2023). _Password length recommendations_.
+  <https://www.reddit.com/user/atoponce/comments/186u5li/password_length_recommendations/>
+
+- Techlore (s.f.). _Privacy & Security Resources_.
+  <https://techlore.tech/resources/>

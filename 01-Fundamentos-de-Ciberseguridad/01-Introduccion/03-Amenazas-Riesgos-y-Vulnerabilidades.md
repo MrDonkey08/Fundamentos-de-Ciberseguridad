@@ -77,8 +77,10 @@ indetectados por un período extenso de tiempo. Sus motivaciones pueden incluir:
 Un **riesgo** es la probabilidad de que una amenaza explote una vulnerabilidad y
 cause daño a un activo. Se calcula como:
 
-$$ \text{Riesgo} = \text{Amenaza} \times \text{Vulnerabilidad} \times
-\text{Impacto}$$
+$$
+\text{Riesgo} = \text{Amenaza} \times \text{Vulnerabilidad} \times
+\text{Impacto}
+$$
 
 **Riesgo = Amenaza × Vulnerabilidad × Impacto**.
 
@@ -161,8 +163,11 @@ vulnerabilidades de sus sistemas.
 
 ## Referencias
 
-- <https://www.coursera.org/learn/manage-security-risks/lecture/QsFVe/threats-risks-and-vulnerabilities>
+- Google (s.f.). _Threats, risks, and vulnerabilities_.
+  <https://www.coursera.org/learn/manage-security-risks/lecture/QsFVe/threats-risks-and-vulnerabilities>
 
-- <https://www.netacad.com/launch?id=dc0847b7-d6fc-4597-bc31-38ddd6b07a2f&tab=curriculum&view=e5fde361-8c73-5b81-99a0-28acf6546fd2>
+- NetAcad (s.f.). _1.4 Cyber Attackers_.
+  <https://www.netacad.com/launch?id=dc0847b7-d6fc-4597-bc31-38ddd6b07a2f&tab=curriculum&view=4e8a0baa-d5b9-5f43-b61c-869857aa5571>
 
-- <https://www.coursera.org/learn/manage-security-risks/supplement/xBXUk/manage-common-threats-risks-and-vulnerabilities>
+- Google (s.f.). _Manage common threats, risks, and vulnerabilities_.
+  <https://www.coursera.org/learn/manage-security-risks/supplement/xBXUk/manage-common-threats-risks-and-vulnerabilities>
