@@ -1,6 +1,8 @@
 # Vulnerabilidades
 
 Una **vulnerabilidad** es una debilidad que puede ser explotada por una amenaza.
+Por lo tanto, las organizaciones deben inspeccionar regularmente las
+vulnerabilidades de sus sistemas.
 
 ## Vulnerabilidades de hardware
 
@@ -110,7 +112,12 @@ Una **vulnerabilidad** es una debilidad que puede ser explotada por una amenaza.
     oportunidad de extraer informacion sensible de un directorio LDAP de una
     organización.
 
-- **Buffer overflow**:
+- **Buffer overflow**: Los **buffers** son areas de memorias asignadas a una
+  aplicación. Un **buffer overflow** sucede cuando los datos están siendo
+  escritos más allá de los límites del buffer. Al modificar datos más allá del
+  buffer, la aplicación puede acceder a memoria asignada a otros procesos. Esto
+  puede provocar que el sistema se crasheé, que los datos sean comprometidos, o
+  inclusive escalado de privilegios.
 
 - **Remote Code Executions**: Permite a un cibercriminal aprovechar las
   vulnerabilidades de una aplicación para ejecutar cualquier comando con los
@@ -120,21 +127,46 @@ Una **vulnerabilidad** es una debilidad que puede ser explotada por una amenaza.
   configuración incorrecta en un SO o aplicación para ganar acceso a los
   recursos que normalmente están restringidos.
 
-- **Cross-site request forgery (CSRF)**:
+- **Cross-site request forgery (CSRF)**: Describe el exploit malicioso de un
+  sitio web donde comandos sin autorización son subidos al navegador del usuario
+  a un aplicación web de confianza.
 
-- **Race condition attack**:
+  Un sitio web malicioso puede transmitir dichos comandos a través de etiquetas
+  de imágenes creadas, formularios ocultos o peticiones de JS, los cuales pueden
+  funcionar sin el conocimiento del usuario.
 
-- **Improper input handling attack**:
+- **Improper input handling attack**: Los datos ingresados por un usuario que no
+  son validados apropiadamente puede afectar al flujo de datos de un programa y
+  causar vulnerabilidades en sistemas y aplicaciones que resultan en _buffer
+  overflow_ o _ataques de SQL injection_.
 
-- **Error handling attack**:
+- **Error handling attack**: Los atacantes pueden usar mensajes de errores para
+  extraer información específica tal como los _hostnames_ de sistemas internos y
+  directorios o archivos que existen en un servidor web; en una base de datos,
+  datos extraídos como nombres de campos pueden ser usados para construir
+  _ataques de SQL injection_.
 
-- **Application programming interface (API) attack**:
+- **Application programming interface (API) attack**: Una API entrega una
+  respuesta usuario a un sistema y el sistema envía una respuesta devuelta al
+  usuario. Un **API attack** sucede cuando un cibercriminal abusa de un API
+  endpoint.
 
-- **Replay attack**:
+- **Replay attack**: Situación en la que una transmisión de datos válida es
+  repetida o retrasada de forma maliciosa o fraudulenta por un atacante, el cual
+  intercepta, modifica y vuelve a enviar los datos para que el destinatario haga
+  lo que él quiere.
 
-- **Directory traversal attack**:
+- **Directory traversal attack**: Sucede cuando un atacante es capaz de leer
+  archivos de un servidor web fuera del directorio de un sitio web. Un atacante
+  puede usar esta información para descargar archivos de configuración del
+  servidor que contienen información sensible, potencialmente exponer más
+  vulnerabilidades del servidor o inclusive tomar control del servidor.
 
-- **Resource exhaustion attacks**:
+- **Resource exhaustion attacks**: Estos ataques son exploits de seguridad de
+  computadoras que crashean, congelan, o interfieren con un programa o sistema
+  específico. En lugar de saturar el ancho de banda tal como un ataque DoS, los
+  _resource exhaustion attacks_ saturan los recursos de hardware disponibles en
+  el servidor del objetivo.
 
 ## Referencias
 
