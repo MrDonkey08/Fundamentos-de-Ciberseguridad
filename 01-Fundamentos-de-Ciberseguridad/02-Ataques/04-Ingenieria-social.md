@@ -147,6 +147,13 @@ Algunos motivos del porqué los ataques de ingeniería social son efectivos son:
 - Netacad (s.f.). _2.2 Deception_.
   <https://www.netacad.com/launch?id=4ab42845-d7db-4c94-b8f1-5b5d2fdcb79b&tab=curriculum&view=a6ccac97-2fb8-5fd2-b018-a5d463bbdce1>
 
+- Netacad (s.f.). _2.2 Methods of Infiltration_.
+  <https://www.netacad.com/launch?id=dc0847b7-d6fc-4597-bc31-38ddd6b07a2f&tab=curriculum&view=dbdc2979-f15d-5751-ad0e-8a87ec6a4c5a>
+
+- ACI Learning, Wes B., & Deal L. (febrero, 2024). _Social Engineering_.
+  Security Fundamentals.
+  <https://subscription.packtpub.com/video/security/9781835463376/p1/video1_5/social-engineering>
+
 - EPNC (s.f.). _Social Engineering Interactive_.
   <https://www.caeepnc.org/social_engineering/>
 

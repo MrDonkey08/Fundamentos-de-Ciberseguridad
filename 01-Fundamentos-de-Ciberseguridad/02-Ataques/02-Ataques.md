@@ -233,3 +233,6 @@ emisor y un receptor. Algunos tipos de ataques criptográficos son:
 
 - Google (s.f.). _Determine the type of attack_.
   <https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/I1z8u/determine-the-type-of-attack>
+
+- NetAcad (s.f.). _2.3 Cyber Attacks_.
+  <https://www.netacad.com/launch?id=fa6ac75d-3afd-4bde-93f5-f164d8253ab6&tab=curriculum&view=4eca255b-a49b-5fd5-8fef-314f9ae1baf8>

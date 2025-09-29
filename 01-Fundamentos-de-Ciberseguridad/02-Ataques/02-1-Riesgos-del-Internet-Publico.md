@@ -156,3 +156,11 @@ nombres similares (evil twin attacks).
 **HIDRA**: Plataforma de ciberseguridad (o más bien hackeo) que se creo en los
 EE.UU para hackear. Los hackers expusieron _hydra_ y cualquiera puede hacer uso
 de él
+
+## Referencias
+
+- NetAcad (s.f.). _3.1 Protecting Your Devices and Network_.
+  <https://www.netacad.com/launch?id=dc0847b7-d6fc-4597-bc31-38ddd6b07a2f&tab=curriculum&view=200e9011-e513-5d25-8d3b-e3d870bd3f5d>
+
+- Google (s.f.). _Determine the type of attack_.
+  <https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/I1z8u/determine-the-type-of-attack>
