@@ -26,5 +26,6 @@ integridad, o disponibilidad de un activo.
 
 ## Referencias
 
-- Google (s.f.). _Threats, risks, and vulnerabilities_.
+- Google (s.f.). _Threats, risks, and vulnerabilities_. Play It Safe: Manage
+  Security Risks.
   <https://www.coursera.org/learn/manage-security-risks/lecture/QsFVe/threats-risks-and-vulnerabilities>

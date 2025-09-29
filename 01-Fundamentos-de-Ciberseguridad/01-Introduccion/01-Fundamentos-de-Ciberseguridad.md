@@ -224,11 +224,12 @@ personales y datos organizativos.
 
 ## Referencias
 
-- NetAcad (s.f.). _2.1 Common Threats_.
+- NetAcad (s.f.). _2.1 Common Threats_. Network Support and Security.
   <https://www.netacad.com/launch?id=fa6ac75d-3afd-4bde-93f5-f164d8253ab6&tab=curriculum&view=0a3139ad-4519-5302-9361-df9197388c8d>
 
-- Google (s.f.). _Threats, risks, and vulnerabilities_.
+- Google (s.f.). _Threats, risks, and vulnerabilities_. Play It Safe: Manage
+  Security Risks.
   <https://www.coursera.org/learn/manage-security-risks/lecture/QsFVe/threats-risks-and-vulnerabilities>
 
-- Google (s.f.). _Secure design_.
+- Google (s.f.). _Secure design_. Foundations of Cybersecurity.
   <https://www.coursera.org/learn/foundations-of-cybersecurity/lecture/wxo04/secure-design>

@@ -225,14 +225,15 @@ emisor y un receptor. Algunos tipos de ataques criptográficos son:
 
 ## Referencias
 
-- Google (s.f.). _Common attacks and their effectiveness_.
+- Google (s.f.). _Common attacks and their effectiveness_. Foundations of
+  Cybersecurity.
   <https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/2ys9Q/common-attacks-and-their-effectiveness>
 
 - Cloudflare (s.f.). _What is a supply chain attack?_.
   <https://www.cloudflare.com/learning/security/what-is-a-supply-chain-attack/>
 
-- Google (s.f.). _Determine the type of attack_.
+- Google (s.f.). _Determine the type of attack_. Foundations of Cybersecurity.
   <https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/I1z8u/determine-the-type-of-attack>
 
-- NetAcad (s.f.). _2.3 Cyber Attacks_.
+- NetAcad (s.f.). _2.3 Cyber Attacks_. Network Support and Security
   <https://www.netacad.com/launch?id=fa6ac75d-3afd-4bde-93f5-f164d8253ab6&tab=curriculum&view=4eca255b-a49b-5fd5-8fef-314f9ae1baf8>

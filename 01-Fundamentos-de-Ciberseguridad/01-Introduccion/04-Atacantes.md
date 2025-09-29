@@ -79,8 +79,8 @@ indetectados for un período extenso de tiempo. Sus motivaciones pueden incluir:
 
 ## Referencias
 
-- Google (s.f.). _Understand attackers_.
+- Google (s.f.). _Understand attackers_. Foundations of Cybersecurity.
   <https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/E8Js9/understand-attackers>
 
-- NetAcad (s.f.). _1.4 Cyber Attackers_.
+- NetAcad (s.f.). _1.4 Cyber Attackers_. _Introduction to Cybersecurity_.
   <https://www.netacad.com/launch?id=dc0847b7-d6fc-4597-bc31-38ddd6b07a2f&tab=curriculum&view=4e8a0baa-d5b9-5f43-b61c-869857aa5571>

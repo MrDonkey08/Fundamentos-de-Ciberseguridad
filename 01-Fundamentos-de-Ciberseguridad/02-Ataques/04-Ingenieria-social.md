@@ -141,13 +141,14 @@ Algunos motivos del porqué los ataques de ingeniería social son efectivos son:
 
 ## Referencias
 
-- Google (s.f.). _Common attacks and their effectiveness_.
+- Google (s.f.). _Common attacks and their effectiveness_. Foundations of
+  Cybersecurity.
   <https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/2ys9Q/common-attacks-and-their-effectiveness>
 
-- Netacad (s.f.). _2.2 Deception_.
-  <https://www.netacad.com/launch?id=4ab42845-d7db-4c94-b8f1-5b5d2fdcb79b&tab=curriculum&view=a6ccac97-2fb8-5fd2-b018-a5d463bbdce1>
+- Netacad (s.f.). _2.2 Deception_. Network Support and Security.
+  <https://www.netacad.com/launch?id=fa6ac75d-3afd-4bde-93f5-f164d8253ab6&tab=curriculum&view=e264672f-61fb-5cc3-b046-1ddc10437d97>
 
-- Netacad (s.f.). _2.2 Methods of Infiltration_.
+- Netacad (s.f.). _2.2 Methods of Infiltration_. Introduction to Cybersecurity.
   <https://www.netacad.com/launch?id=dc0847b7-d6fc-4597-bc31-38ddd6b07a2f&tab=curriculum&view=dbdc2979-f15d-5751-ad0e-8a87ec6a4c5a>
 
 - ACI Learning, Wes B., & Deal L. (febrero, 2024). _Social Engineering_.

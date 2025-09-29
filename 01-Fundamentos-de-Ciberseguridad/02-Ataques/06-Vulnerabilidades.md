@@ -234,10 +234,11 @@ adecuadas.
 
 ## Referencias
 
-- NetAcad (s.f.). _2.3. Security Vulnerability and Exploits_.
+- NetAcad (s.f.). _2.3. Security Vulnerability and Exploits_. Introduction to
+  Cybersecurity.
   <https://www.netacad.com/launch?id=dc0847b7-d6fc-4597-bc31-38ddd6b07a2f&tab=curriculum&view=4e4a6ba2-9262-5cb3-b6b0-d0c70814ace9>
 
-- NetAcad (s.f.). _2.5 Application Attacks_.
+- NetAcad (s.f.). _2.5 Application Attacks_. Network Support and Security.
   <https://www.netacad.com/launch?id=fa6ac75d-3afd-4bde-93f5-f164d8253ab6&tab=curriculum&view=2051f234-b3da-559c-8f85-051a18461925>
 
 - ACI Learning, Wes B., & Deal L. (febrero, 2024). _Threats, Vulnerabilities and
@@ -246,5 +247,6 @@ adecuadas.
 
 - Roadmap (s.f.). _Cyber Security Expert_. <https://roadmap.sh/cyber-security>
 
-- Google (s.f.). _Manage common threats, risks, and vulnerabilities_.
+- Google (s.f.). _Manage common threats, risks, and vulnerabilities_. Play It
+  Safe: Manage Security Risks.
   <https://www.coursera.org/learn/manage-security-risks/supplement/xBXUk/manage-common-threats-risks-and-vulnerabilities>

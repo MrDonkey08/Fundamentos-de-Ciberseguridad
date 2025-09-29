@@ -269,11 +269,12 @@ almacenarlas.
 
 ## Referencias
 
-- Netacad (s.f.). _2.2 Methods of Infiltration_.
+- Netacad (s.f.). _2.2 Methods of Infiltration_. Introduction to Cybersecurity.
   <https://www.netacad.com/launch?id=dc0847b7-d6fc-4597-bc31-38ddd6b07a2f&tab=curriculum&view=dbdc2979-f15d-5751-ad0e-8a87ec6a4c5a>
 
-- NetAcad (s.f.). _3.1 Protecting Your Devices and Network_.
-  <https://www.netacad.com/launch?id=dc0847b7-d6fc-4597-bc31-38ddd6b07a2f&tab=curriculum&view=200e9011-e513-5d25-8d3b-e3d870bd3f5d>
+- NetAcad (s.f.). _3.1 Protecting Your Devices and Network_. Introduction to
+  Cybersecurity.
+  <https://www.netacad.com/launch?id=dc0847b7-d6fc-4597-bc31-38ddd6b07a2f&tab=curriculum&view=21b2bb53-e0ba-5f01-a013-ea1a85123ccb>
 
 - NIST (s.f.). _Digital Identity Guidelines_. <https://pages.nist.gov/800-63-3/>
 
