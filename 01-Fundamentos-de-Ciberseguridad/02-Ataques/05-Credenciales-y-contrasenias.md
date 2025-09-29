@@ -290,3 +290,6 @@ almacenarlas.
 
 - Techlore (s.f.). _Privacy & Security Resources_.
   <https://techlore.tech/resources/>
+
+- Soto J., (s.f.). _Conceptos de Ciberseguridad_. Seguridad en la Información.
+  <https://drive.google.com/file/d/1Q5NssUBDDpgYnM2XPxi-9fmNws5EQC__/view>

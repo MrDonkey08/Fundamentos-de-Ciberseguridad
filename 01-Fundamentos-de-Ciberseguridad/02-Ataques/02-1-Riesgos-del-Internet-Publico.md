@@ -165,3 +165,7 @@ de él
 
 - Google (s.f.). _Determine the type of attack_. Foundations of Cybersecurity.
   <https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/I1z8u/determine-the-type-of-attack>
+
+- Soto J., (s.f.). _Conceptos Generales de Seguridad de la Información_.
+  Seguridad en la Información.
+  <https://drive.google.com/file/d/15W5bOQ0wCuDyI1i6VgHb9I4BjgUFxp8A/view>

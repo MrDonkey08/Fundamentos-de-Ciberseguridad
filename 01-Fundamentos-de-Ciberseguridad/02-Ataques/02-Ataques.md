@@ -237,3 +237,7 @@ emisor y un receptor. Algunos tipos de ataques criptográficos son:
 
 - NetAcad (s.f.). _2.3 Cyber Attacks_. Network Support and Security
   <https://www.netacad.com/launch?id=fa6ac75d-3afd-4bde-93f5-f164d8253ab6&tab=curriculum&view=4eca255b-a49b-5fd5-8fef-314f9ae1baf8>
+
+- Soto J., (s.f.). _Conceptos Generales de Seguridad de la Información_.
+  Seguridad en la Información.
+  <https://drive.google.com/file/d/15W5bOQ0wCuDyI1i6VgHb9I4BjgUFxp8A/view>
