@@ -48,14 +48,12 @@ Para llevar a cabo un ataque MitM, se utilizan ataques de spoofing tales como:
 
 - **ARP spoofing:** Ocurre cuando un atacante envía un mensaje ARP spoofed a
   través de una LAN. Esto enlaza la dirección MAC del atacante con la dirección
-  IP de un dispositivo autorizado.
-
-  Este ataque se puede aprovechar para redirigir los paquetes del host víctima
-  (host envenenado) que van hacia el default gateway (router) hacia el host
-  atacante, haciendo posible la lectura y alteración de los datos del paquete.
-  Adicionalmente, estos paquetes pueden ser redirigidos del host atacante al
-  destino real, en este caso al default gateway, manteniendo la comunicación
-  aparentemente normal.
+  IP de un dispositivo autorizado. Este ataque se puede aprovechar para
+  redirigir los paquetes del host víctima (host envenenado) que van hacia el
+  default gateway (router) hacia el host atacante, haciendo posible la lectura y
+  alteración de los datos del paquete. Adicionalmente, estos paquetes pueden ser
+  redirigidos del host atacante al destino real, en este caso al default
+  gateway, manteniendo la comunicación aparentemente normal.
 
 - **IP spoofing:** Es cuando se envían paquetes IP desde una dirección falsa
   para ocultar el verdadero origen del paquete. Esto permite al atacante hacerse
@@ -64,16 +62,14 @@ Para llevar a cabo un ataque MitM, se utilizan ataques de spoofing tales como:
 - **DNS spoofing:** El DNS spoofing o **DNS cache poisoning** es un ataque en el
   cual datos falsos son introducidos en la caché de un DNS resolver, la base de
   datos que un sistema operativo mantiene para registrar consultas recientes de
-  sitios web visitados y otros tipos de dominios de Internet.
-
-  Estos ataques pueden explotar una debilidad en el software de cache DNS que
-  causa que los servidores DNS redirijan el tráfico de un dominio legítimo hacia
-  la dirección IP de un servicio malicioso.
-
-  Este tipo de ataque puede ser combinado con un ataque ARP spoofing, para que
-  cuando el usuario ingrese a un sitio web (i.e., <https://facebook.com>) sea
-  redirigido a una página ilegítima (i.e., un clon de Facebook), ingrese sus
-  credenciales de inicio de sesión y estas sean enviadas al host del atacante.
+  sitios web visitados y otros tipos de dominios de Internet. Estos ataques
+  pueden explotar una debilidad en el software de cache DNS que causa que los
+  servidores DNS redirijan el tráfico de un dominio legítimo hacia la dirección
+  IP de un servicio malicioso. Este tipo de ataque puede ser combinado con un
+  ataque ARP spoofing, para que cuando el usuario ingrese a un sitio web (e.g.,
+  <https://facebook.com>) sea redirigido a una página ilegítima (i.e., un clon de
+  Facebook), ingrese sus credenciales de inicio de sesión y estas sean enviadas
+  al host del atacante.
 
 ## Medidas preventivas ante ataques MitM
 
@@ -90,20 +86,20 @@ de protección adicional sobre la red pública.
 En redes públicas o en páginas con HTTP, siempre utiliza una VPN para garantizar
 una comunicación cifrada de los paquetes.
 
-#### Ventajas de una VNP
+#### Ventajas de una VPN
 
-- Transmisiones de contenido desde cualquier dispositivo
-- Acceder a páginas bloqueadas
-- Evitar la censura
-- Evitar la discriminación de precios
-- Evitar ser rastreado
+- Transmisiones de contenido desde cualquier dispositivo.
+- Acceder a páginas bloqueadas.
+- Evitar la censura.
+- Evitar la discriminación de precios.
+- Evitar ser rastreado.
 
 #### Desventajas de una VPN
 
-- Velocidad potencialmente inferior
-- No son posibles las mediciones de QoS
-- Bloqueos de VPN por parte de la empresa
-- La privacidad no siempre es total
+- Velocidad potencialmente inferior.
+- No son posibles las mediciones de QoS.
+- Bloqueos de VPN por parte de la empresa.
+- La privacidad no siempre es total.
 
 ### HTTPS y certificados SSL/TLS
 
@@ -113,7 +109,7 @@ dificultando que un atacante _MitM_ pueda leer o alterar los paquetes
 interceptados.
 
 Siempre, de ser posible, asegúrate de acceder solo a páginas **HTTPS** en lugar
-**HTTP**, especialmente si estas enviando o recibiendo información sensible
+**HTTP**, especialmente si estás enviando o recibiendo información sensible
 (e.g., credenciales, documentos confidenciales). Si la página a la que necesitas
 acceder utiliza _HTTP_, entonces utiliza una _VPN_ para asegurar una
 comunicación cifrada de los datos.
@@ -123,7 +119,7 @@ comunicación cifrada de los datos.
 El **Two Factor Authentication (2FA)** y el **Multi Factor Authentication
 (MFA)** son una capa adicional de autenticación para evitar que personas no
 autorizadas (e.g., atacantes) puedan acceder a una cuenta. Esta funciona de tal
-manera que te solicita algún código o llave adicional, la cual ha sido enviado
+manera que te solicita algún código o llave adicional, la cual ha sido enviada
 mediante SMS, o correo o, en su defecto, puede ser consultada en tu app de
 autenticación (e.g., Google Authenticator).
 
@@ -153,9 +149,9 @@ nombres similares (evil twin attacks).
 
 ---
 
-**HIDRA**: Plataforma de ciberseguridad (o más bien hackeo) que se creo en los
+**HIDRA**: Plataforma de ciberseguridad (o más bien hackeo) que se creó en los
 EE.UU para hackear. Los hackers expusieron _hydra_ y cualquiera puede hacer uso
-de él
+de él.
 
 ## Referencias
 

@@ -11,9 +11,9 @@ devastadoras.
 
 Los atacantes principiantes pueden tener objetivos tales como:
 
-- Aprender y mejorar sus habilidades de hacking
-- Demostrar sus habilidades de hacking
-- Buscar venganza
+- Aprender y mejorar sus habilidades de hacking.
+- Demostrar sus habilidades de hacking.
+- Buscar venganza.
 - Explotar vulnerabilidades al usar malware existente, scripts, y otras
   tácticas.
 
@@ -69,7 +69,7 @@ Los **advanced persistent threats (APTs)** o **amenazas persistentes avanzadas**
 tienen un a gran experiencia en acceder a la red de la organización sin
 autorización. Las APT tienden a investigar a sus objetivos (e.g., grandes
 empresas o entidades gubernamentales) con antelación y pueden permanecer
-indetectados for un período extenso de tiempo. Sus motivaciones pueden incluir:
+indetectados por un período extenso de tiempo. Sus motivaciones pueden incluir:
 
 - Dañar la infraestructura crítica, tal como la planta de energía y los recursos
   naturales.

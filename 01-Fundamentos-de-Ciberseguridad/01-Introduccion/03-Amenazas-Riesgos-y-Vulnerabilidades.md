@@ -7,14 +7,14 @@ negativamente a los activos.
 
 ### Tipos de amenazas
 
-- Malware
-- Ataques
-  - Ataques de red
-  - Ataques físicos
-  - Ataques de ingeniería social
-    - Phishing
-  - Ataques de contraseñas
-  - Explotación de vulnerabilidades zero-day
+- Malware.
+- Ataques.
+  - Ataques de red.
+  - Ataques físicos.
+  - Ataques de ingeniería social.
+    - Phishing.
+  - Ataques de contraseñas.
+  - Explotación de vulnerabilidades zero-day.
 
 ### Actores de amenaza
 
@@ -30,35 +30,35 @@ Las **amenazas internas** son usualmente realizadas por empleados y
 ex-empleados, socios de confianza y personal contratado al accidental o
 intencionalmente:
 
-- Manejar inapropiadamente datos confidenciales
+- Manejar inapropiadamente datos confidenciales.
 
 - Facilitar ataques externos al conectar una memoria USB infectada en la
-  computadora del sistema de la organización
+  computadora del sistema de la organización.
 
 - Introducir malware en la red de la organización al hacer clic en emails o
-  sitios web maliciosos
+  sitios web maliciosos.
 
 - Amenazar las operaciones de servidores internos o dispositivos de la
-  infraestructura de red
+  infraestructura de red.
 
 Las **amenazas internas** pueden abusar de su acceso autorizado para obtener
 datos que pueden dañar a una organización. Sus intenciones pueden incluir:
 
-- Sabotaje
-- Corrupción
-- Espionaje
-- Acceso de datos no autorizado
-- Filtración de datos
+- Sabotaje.
+- Corrupción.
+- Espionaje.
+- Acceso de datos no autorizado.
+- Filtración de datos.
 
 #### Amenazas externas
 
 Las **amenazas externas** pueden ser realizadas por atacantes principiantes o
 expertos fuera de la organización al:
 
-- Explotar vulnerabilidades en la red
-- Ganar acceso no autorizado a dispositivos de cómputo
+- Explotar vulnerabilidades en la red.
+- Ganar acceso no autorizado a dispositivos de cómputo.
 - Usar ingeniería social para ganar acceso no autorizado a datos de la
-  organización
+  organización.
 
 #### APT
 
@@ -69,8 +69,9 @@ empresas o entidades gubernamentales) con antelación y pueden permanecer
 indetectados por un período extenso de tiempo. Sus motivaciones pueden incluir:
 
 - Dañar la infraestructura crítica, tal como plantas de energía y recursos
-  naturales
-- Ganar acceso a propiedad intelectual, tal como secretos de negocios o patentes
+  naturales.
+- Ganar acceso a propiedad intelectual, tal como secretos de negocios o
+  patentes.
 
 ## Riesgos
 
@@ -82,21 +83,19 @@ $$
 \text{Impacto}
 $$
 
-**Riesgo = Amenaza × Vulnerabilidad × Impacto**.
-
 ### Gestión de riesgos
 
-- **Identificar** los riesgos dentro de un sistema
+- **Identificar** los riesgos dentro de un sistema.
 
 - **Evaluar** la probabilidad y la severidad (o nivel de impacto) de cada uno de
   los riesgos. La evaluación de riesgos se puede llevar a cabo mediante una
-  matriz de probabilidad/severidad
+  matriz de probabilidad/severidad.
 
-- **Prioritizar** los riesgos, determinar cuáles riesgos atender primero o
-  darles mayor importancia
+- **Priorizar** los riesgos, determinar cuáles riesgos atender primero o darles
+  mayor importancia.
 
 - **Controlar** los riesgos, tomar acciones para disminuir la probabilidad y la
-  severidad de los riesgos
+  severidad de los riesgos.
 
 > [!TIP]
 >
@@ -116,23 +115,23 @@ vulnerabilidades de sus sistemas.
   numéricas o alfabéticas; contraseñas asociadas con datos personales (PII),
   datos de la cuenta (e.g., nombre de usuario o correo), de la empresa (e.g.,
   nombre de la empresa), del servicio (e.g., Netflix), del dispositivo (e.g.,
-  router)
+  router).
 
 - **Sistemas sin parchear**: Sistemas que siguen teniendo soporte, pero no se
-  les aplican parches de seguridad
+  les aplican parches de seguridad.
 
 - **Hardware desactualizado**: El hardware viejo puede ser propenso a
   vulnerabilidades de hardware y/o puede ya no tener soporte para parches de
-  seguridad
+  seguridad.
 
 - **Protocolos inseguros**: Protocolos que no garantizan la triada CID (e.g.,
-  Telnet, HTTP, FTP)
+  Telnet, HTTP, FTP).
 
 - **Configuraciones débiles o por defecto**: Fáciles de descubrir por
-  documentación oficial o externa. También incluye **contraseñas por defecto**
+  documentación oficial o externa. También incluye **contraseñas por defecto**.
 
 - **Sistemas legacy**: Sistemas que ya no tienen soporte del fabricante, es
-  decir, ya no reciben parches de seguridad
+  decir, ya no reciben parches de seguridad.
 
 ## Referencias
 

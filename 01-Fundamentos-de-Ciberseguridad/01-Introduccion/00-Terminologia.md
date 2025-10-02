@@ -34,7 +34,6 @@
 - **Programación**: Proceso que puede ser usado para crear un conjunto de
   instrucciones especificas a una computadora para ejecutar tareas. Estas tareas
   pueden incluir:
-
-  - Automatización de tareas repetitivas
-  - Revision de tráfico
-  - Alerta de actividades sospechosas
+  - Automatización de tareas repetitivas.
+  - Revision de tráfico.
+  - Alerta de actividades sospechosas.

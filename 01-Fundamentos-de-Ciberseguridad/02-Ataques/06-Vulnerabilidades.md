@@ -23,7 +23,7 @@ adecuadas.
   a sistemas sin autenticación.
 
 - **Equipos sin autenticación habilitada**: Dispositivos que no requieren PIN,
-  contraseña, datos biométricos, etc. facilitan accesos no autorizados.
+  contraseña, datos biométricos, etc., facilitan accesos no autorizados.
 
 ### Vulnerabilidades de arquitectura de hardware
 
@@ -45,7 +45,7 @@ adecuadas.
 - **Sistemas sin parchear**: Sistemas que todavía tienen soporte oficial, pero
   no se les aplican actualizaciones de seguridad.
 
-- **Protocolos inseguros**: Protocolos que no garantizan la triada **CIA**
+- **Protocolos inseguros**: Protocolos que no garantizan la tríada **CIA**
   (e.g., Telnet, HTTP, FTP).
 
 - **Configuraciones débiles o por defecto**: Ajustes predefinidos fácilmente
@@ -63,14 +63,12 @@ adecuadas.
   de controlar a **qué puede** acceder un usuario, **cuándo puede hacerlo** y
   **qué puede hacer** con un recurso en base al rol que posee. Estos recursos
   pueden ser físicos (e.g., una computadora, un lugar) o lógicos (e.g., un
-  archivo).
-
-  Controles mal definidos permiten a usuarios realizar acciones fuera de su rol
-  autorizado.
+  archivo). Controles mal definidos permiten a usuarios realizar acciones fuera
+  de su rol autorizado.
 
 ### Vulnerabilidades generales de software
 
-- **Buffer overflow**: Los **buffers** son áreas de memorias asignadas a una
+- **Buffer overflow**: Los **buffers** son áreas de memoria asignadas a una
   aplicación. El **buffer overflow** sucede cuando los datos son escritos más
   allá de los límites de un buffer. Esto puede provocar que la aplicación pueda
   acceder a memoria asignada a otros procesos. Esto puede causar fallo del
@@ -78,11 +76,9 @@ adecuadas.
 
 - **Input no validado**: Cuando un _input_ (entrada) no es validado, un atacante
   puede ingresar datos maliciosos, los cuales provocan que el programa tenga
-  resultados o comportamiento inesperados.
-
-  El _input no validado_ puede causar vulnerabilidades en sistemas y
-  aplicaciones que resultan en _buffer overflow_ o _ataques inyección de
-  código_.
+  resultados o comportamientos inesperados. El _input no validado_ puede causar
+  vulnerabilidades en sistemas y aplicaciones que resultan en _buffer overflow_
+  o _ataques de inyección de código_.
 
 - **Condiciones de carrera**: En el paralelismo o la concurrencia, una
   **condición de carrera** ocurre cuando dos o más procesos o hilos, que tienen
@@ -115,21 +111,17 @@ adecuadas.
   estas técnicas y librerías que ya han sido creadas, testeadas y verificadas, y
   no deberían intentar crear sus propios algoritmos de seguridad.
 
-<!-- - "Fake/legitimate address (e.g., email or website)" -->
-
 ### Explotación de vulnerabilidades de software (ataques)
 
 - **Directory Traversal**: Consiste en la explotación de vulnerabilidades que
   permiten acceder a recursos de un servidor fuera del directorio previsto
-  (e.g., a través de una aplicación o sitio web).
-
-  Un atacante puede obtener acceso no autorizado a archivos de configuración
-  (e.g., `/etc/passwd`), activos críticos y datos sensibles.
+  (e.g., a través de una aplicación o sitio web). Un atacante puede obtener
+  acceso no autorizado a archivos de configuración (e.g., `/etc/passwd`),
+  activos críticos y datos sensibles.
 
 - **Remote Code Execution (RCE)**: Permite a un cibercriminal aprovechar las
   vulnerabilidades de una aplicación para ejecutar cualquier comando con los
   privilegios del usuario que ejecuta la aplicación en el dispositivo objetivo.
-
   El **escalado de privilegios** explota un bug, error de diseño, o una
   configuración incorrecta en un SO o aplicación para ganar acceso a los
   recursos que normalmente están restringidos.
@@ -169,45 +161,37 @@ adecuadas.
 
 - **Cross-site request forgery (CSRF)**: Describe el exploit malicioso de un
   sitio web donde comandos sin autorización son subidos al navegador del usuario
-  a un aplicación web de confianza.
-
-  Un sitio web malicioso puede transmitir dichos comandos a través de etiquetas
-  de imágenes creadas, formularios ocultos o peticiones de JS, los cuales pueden
-  funcionar sin el conocimiento del usuario.
+  a una aplicación web de confianza. Un sitio web malicioso puede transmitir
+  dichos comandos a través de etiquetas de imágenes creadas, formularios ocultos
+  o peticiones de JS, los cuales pueden funcionar sin el conocimiento del
+  usuario.
 
 - **XML Injection**: Este tipo de ataque puede corromper los datos de una base
-  de datos XML y amenazar a la seguridad del sitio web.
-
-  Funciona al interferir con el procesamiento, por parte de una aplicación, de
-  los datos o consultas ingresadas por un usuario.
-
-  Los cibercriminales pueden manipular la consulta al programarla para servir
-  sus necesidades. Esto les proporcionará acceso a toda la información sensible
-  almacenada en la base de datos y les permite hacer cualquier número de cambios
-  al sitio web.
+  de datos XML y amenazar a la seguridad del sitio web. Funciona al interferir
+  con el procesamiento, por parte de una aplicación, de los datos o consultas
+  ingresadas por un usuario. Los cibercriminales pueden manipular la consulta al
+  programarla para servir sus necesidades. Esto les proporcionará acceso a toda
+  la información sensible almacenada en la base de datos y les permite hacer
+  cualquier número de cambios al sitio web.
 
 - **SQL Injection**: Consiste en la inyección de código SQL en consultas mal
-  construidas o sin parametrizar. Un atacante puede código SQL malicioso dentro
-  de la base de datos de una aplicación, potencialmente obteniendo acceso a la
-  información o alterándolo los datos (i.e., CRUD).
+  construidas o sin parametrizar. Un atacante puede introducir código SQL
+  malicioso dentro de la base de datos de una aplicación, potencialmente
+  obteniendo acceso a la información o alterándolo los datos (i.e., CRUD).
 
 - **DLL Injection**: Un archivo DLL es una librería que contiene un conjunto de
   código y datos para llevar a cabo una actividad en Windows. Las aplicaciones
   usan este tipo de archivo para agregar funcionalidad que no viene integrada,
-  cuando requieren llevar acabo dicha actividad.
-
-  La **inyección DLL** permite a los cibercriminales engañar a una aplicación
-  para que llame a un archivo DLL malicioso, el cual se ejecuta como parte del
-  proceso del objetivo.
+  cuando requieren llevar a cabo dicha actividad. La **inyección DLL** permite a
+  los cibercriminales engañar a una aplicación para que llame a un archivo DLL
+  malicioso, el cual se ejecuta como parte del proceso del objetivo.
 
 - **LDAP Injection**: El **Lightweight Directory Access Protocol (LDAP)** es un
   protocolo abierto para la autenticación de accesos de usuarios a los servicios
-  de directorio.
-
-  Una **inyección LDAP** explota vulnerabilidades de input al inyectar y
-  ejecutar consultas de servidores LDAP, dándole a los cibercriminales una
-  oportunidad de extraer información sensible de un directorio LDAP de una
-  organización.
+  de directorio. Una **inyección LDAP** explota vulnerabilidades de input al
+  inyectar y ejecutar consultas de servidores LDAP, dándole a los
+  cibercriminales una oportunidad de extraer información sensible de un
+  directorio LDAP de una organización.
 
 ### Vulnerabilidades críticas en software
 

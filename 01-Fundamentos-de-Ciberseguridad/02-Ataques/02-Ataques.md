@@ -31,22 +31,21 @@ al negocio o empresa detrás del sistema.
 - **DDoS**: Un ataque **Distributed DoS (DDoS)** o **DoS Distribuido** es un
   ataque que se origina por múltiples fuentes coordinadas. Por ejemplo:
   - Un atacante crea una red (botnet) de hosts infectados llamados zombies, los
-    cuales son controlados por sistemas gestor.
+    cuales son controlados por sistemas gestores.
 
   - Las computadoras zombies constantemente escanearán e infectarán más host,
     creando más y más zombies.
 
   - Cuando el hacker esté listo, le indicará al sistema gestor que haga que el
-    botnet de zombies lleve a acabo un ataque DDoS.
+    botnet de zombies lleve a cabo un ataque DDoS.
 
-- **Botnet**: Una computadora bot es típicamente infectado por visitar un sitio
+- **Botnet**: Una computadora bot es típicamente infectada por visitar un sitio
   web inseguro o abrir archivos adjuntos de correo o archivos de media
-  infectados. Un **botnet** es un grupo de bots conectadas a través de Internet
+  infectados. Un **botnet** es un grupo de bots conectados a través de Internet
   que pueden ser controlados por un individuo o grupo malicioso, típicamente a
-  través de un servidor de comandos y control.
-
-  Estos bots pueden ser activados para distribuir malware, lanzar ataques DDoS,
-  distribuir correos de spam, o ejecutar ataques de fuerza bruta.
+  través de un servidor de comandos y control. Estos bots pueden ser activados
+  para distribuir malware, lanzar ataques DDoS, distribuir correos de spam, o
+  ejecutar ataques de fuerza bruta.
 
 - DNS
   - **DNS reputation**:
@@ -54,21 +53,18 @@ al negocio o empresa detrás del sistema.
   - **DNS spoofing**: El **DNS spoofing** o **DNS cache poisoning** es un ataque
     en el cual datos falsos son introducidos en la caché de un DNS resolver, la
     base de datos que un SO que graba registros recientes de sitios webs
-    visitados y otros tipos de dominios de internet.
-
-    Estos ataques pueden explotar una debilidad en el software de cacheado DNS
-    que causa que los servidores DNS redirijan el tráfico de un dominio legítimo
-    a la dirección IP de un servicio ilícito.
+    visitados y otros tipos de dominios de internet. Estos ataques pueden
+    explotar una debilidad en el software de cacheado DNS que causa que los
+    servidores DNS redirijan el tráfico de un dominio legítimo a la dirección IP
+    de un servicio ilícito.
 
   - **Domain hijacking**: El **domain hijacking** o **secuestro de dominio** es
     cuando un atacante gana indebidamente el control de la información DNS del
-    objetivo y hace cambios no autorizados.
-
-    El tipo de domain hijacking más común es cambiar el correo de contacto del
-    administrador a través de ingeniería social o al hackear la cuenta de email
-    del administrador. El correo del administrador puede ser fácilmente
-    encontrado a través del registro WHOIS del dominio, el cuál es un registro
-    público
+    objetivo y hace cambios no autorizados. El tipo de domain hijacking más
+    común es cambiar el correo de contacto del administrador a través de
+    ingeniería social o al hackear la cuenta de email del administrador. El
+    correo del administrador puede ser fácilmente encontrado a través del
+    registro WHOIS del dominio, el cuál es un registro público
 
   - **Uniform resource locator (URL) redirection**: Una **URL redirection** o
     **redirección URL** es cuando una URL te redirige a otra. Esto comúnmente
@@ -83,7 +79,7 @@ al negocio o empresa detrás del sistema.
   - **MitMo**: Un ataque **man-in-the-mobile (MitMo)** es una variación de un
     ataque MitM. MitMo es usado para tomar control del dispositivo móvil de un
     usuario. Cuando un dispositivo es infectado, se le indica al dispositivo
-    exfiltrar datos sensibles del usuario y enviarlos al atacante.
+    filtrar datos sensibles del usuario y enviarlos al atacante.
 
 ## Ataques de la capa 2
 
@@ -107,7 +103,7 @@ identidad que toma ventaja de la relación de confianza entre dos sistemas.
   través de una LAN. Esto enlaza la dirección MAC del atacante con la dirección
   IP de un dispositivo autorizado.
 
-- **IP spoofing**: Es cuando se envía paquetes IP de una dirección falsa para
+- **IP spoofing**: Es cuando se envían paquetes IP de una dirección falsa para
   ocultar el origen del paquete.
 
 ### MAC flooding
@@ -132,7 +128,7 @@ de ataques de contraseñas son:
   intentar con cada una de estas contraseñas.
 
 - **Ataque de arcoiris**: Las contraseñas de un sistema no se suelen guardar en
-  texto plano, sino se guardan como hash. Al diferencia del diccionario, este no
+  texto plano, sino se guardan como hash. A diferencia del diccionario, este no
   utiliza un diccionario de contraseñas, sino uno de hash de contraseñas
   precalculados. Cuando se obtiene el hash correcto, el atacante identifica la
   contraseña usada para crear dicho hash.
@@ -176,32 +172,28 @@ de ataques de contraseñas son:
 
 ### Ataques criptográficos
 
-Un **ataque criptográfico** afecta a las formas comunicación seguras entre un
+Un **ataque criptográfico** afecta a las formas de comunicación seguras entre un
 emisor y un receptor. Algunos tipos de ataques criptográficos son:
 
-- Birthday
-- Collision
-- Downgrade
+- Birthday.
+- Collision.
+- Downgrade.
 
 ### Más tipos de ataques
 
 - **SEO poisoning**: El **search engine optimización (SEO)** o optimización del
   motor de búsqueda es, en simples términos, la aplicación de técnicas y
   estrategias para para mejorar el sitio web de la organización con el objetivo
-  de que gane mayor visibilidad en los resultados del motor de búsqueda.
-
-  El **SEO poisoning** es cuando un atacante toman ventaja de términos de
-  búsqueda populares para implementar SEO y empujar sus sitios web maliciosos
-  para mejorar su ranking en la búsqueda de resultados.
+  de que gane mayor visibilidad en los resultados del motor de búsqueda. El
+  **SEO poisoning** es cuando un atacante toma ventaja de términos de búsqueda
+  populares para implementar SEO y empujar sus sitios web maliciosos para
+  mejorar su ranking en la búsqueda de resultados.
 
 - **Zero-day**: Un **zero-day** es cuando existe vulnerabilidad de un software
-  desconocido por el proveedor de software.
-
-  Un **zero-day-exploit** es el método o código que permite aprovecharse de
-  dicha vulnerabilidad.
-
-  Un **ataque zero-day** sucede cuando un atacante explota la vulnerabilidad
-  antes de que sean conocidas y parcheadas por el distribuidor del software.
+  desconocido por el proveedor de software. Un **zero-day-exploit** es el método
+  o código que permite aprovecharse de dicha vulnerabilidad. Un **ataque
+  zero-day** sucede cuando un atacante explota la vulnerabilidad antes de que
+  sean conocidas y parcheadas por el distribuidor del software.
 
 - **Inteligencia artificial adversaria**: Técnica que manipula la inteligencia
   artificial y la tecnología de aprendizaje automático para realizar ataques de
@@ -217,11 +209,10 @@ emisor y un receptor. Algunos tipos de ataques criptográficos son:
   pieza de software legítimo para generar comportamientos no intencionados.
 
 - **APT**: Un **advanced persistent threat** es un ataque continuo que utiliza
-  tácticas de espionaje elaboradas, involucrando a multiples actores y/o
-  software malicioso para ganar acceso a la red del objetivo.
-
-  Los ataques permanecen indetectables por largos períodos de tiempo, con
-  consecuencias potencialmente devastadoras.
+  tácticas de espionaje elaboradas, involucrando a múltiples actores y/o
+  software malicioso para ganar acceso a la red del objetivo. Los ataques
+  permanecen indetectables por largos períodos de tiempo, con consecuencias
+  potencialmente devastadoras.
 
 ## Referencias
 

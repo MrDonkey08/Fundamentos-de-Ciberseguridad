@@ -12,20 +12,20 @@ autorizados o explotaciones maliciosas.
 - La **personally identifiable information (PII)** o **información personalmente
   identificable** es cualquier tipo de información usada para inferir la
   identidad de un usuario. Algunos ejemplos son:
-  - Nombre completo
-  - Fecha de nacimiento
-  - Dirección física
-  - Número telefónico
-  - Dirección de correo electrónico
-  - Dirección IP
+  - Nombre completo.
+  - Fecha de nacimiento.
+  - Dirección física.
+  - Número telefónico.
+  - Dirección de correo electrónico.
+  - Dirección IP.
 
 - La **sensitive personally identifiable information (SPII)** o **información
   sensible personalmente identificable** es un tipo específico PII que está
   sujeto a directrices de gestión más estrictas. Algunos ejemplos son:
-  - Números de seguro social (NSS)
-  - Información médica
-  - Información médica financiera
-  - Datos biométricos
+  - Números de seguro social (NSS).
+  - Información médica.
+  - Información financiera.
+  - Datos biométricos.
 
 ### Datos organizativos
 
@@ -49,8 +49,8 @@ organizaciones, pequeñas y grandes. Incluyen lo siguiente:
 
 #### Datos de Internet de las cosas (IoT) y big data
 
-IoT es una red de objetos físicos (sensores, cámaras, actuadores, etc.)
-conectados a Internet que generan grandes volúmenes de datos. El crecimiento del
+IoT es una red de objetos físicos (sensores, cámaras, actuadores) conectados a
+Internet que generan grandes volúmenes de datos. El crecimiento del
 almacenamiento en la nube y la virtualización ha favorecido el surgimiento de
 Big Data, lo que plantea nuevos retos de seguridad y privacidad.
 
@@ -61,9 +61,9 @@ para ayudar a las organizaciones a establecer y evaluar iniciativas de la
 seguridad de la información al considerar todos los factores que los afectan.
 Este modelo de seguridad tiene tres dimensiones:
 
-1. **Principios de seguridad**
-2. **Estados de la datos**
-3. **Protección de los datos**
+1. **Principios de seguridad**.
+2. **Estados de la datos**.
+3. **Protección de los datos**.
 
 #### Principios de seguridad
 
@@ -79,27 +79,27 @@ al experto en ciberseguridad priorizar acciones cuando se protege a un sistema:
   - Comprobación de la identidad mediante controles de acceso (lógicos y
     físicos).
   - Autenticación multifactor (MFA), o autenticación de dos factores (2FA)".
-  - Least Privilage Access (LPA), o Principio del Mínimo Acceso
+  - Least Privilage Access (LPA), o Principio del Mínimo Acceso.
 
 - **Integridad**: Asegura que los datos de un sistema no sean modificados de
   manera accidental o intencional (e.g., por personas no autorizadas). También
   implica que cualquier modificación legítima sea rastreable. Algunos métodos
   para asegurar la _integridad_ son:
-  - Funciones hash criptográficas (e.g., SHA-256)
-  - Firmas digitales
-  - Checksums
-  - Control de versiones (e.g., Git)
+  - Funciones hash criptográficas (e.g., SHA-256).
+  - Firmas digitales.
+  - Checksums.
+  - Control de versiones (e.g., Git).
 
 - **Disponibilidad**: Se refiere a que los usuarios autorizados sean capaces de
-  acceder a los sistemas y los datos cuando y donde sean necesarios. Se busca
+  acceder a los sistemas y los datos cuándo y dónde sean necesarios. Se busca
   minimizar interrupciones por fallos técnicos, ataques (e.g., DDoS), errores
   humanos, o desastres. Algunos métodos para asegurar la _integridad_ son:
-  - Redundancia y tolerancia al fallo
-  - Respaldos de los datos y sistemas de información (e.g., bases de datos)
+  - Redundancia y tolerancia al fallo.
+  - Respaldos de los datos y sistemas de información (e.g., bases de datos).
   - Actualización del software y los sistemas operativos, especialmente de los
-    parches de seguridad
-  - Mantenimiento de equipos
-  - Planes de recuperación ante desastres
+    parches de seguridad.
+  - Mantenimiento de equipos.
+  - Planes de recuperación ante desastres.
 
 #### Estados de los datos
 
@@ -129,24 +129,24 @@ y la infraestructura en el campo digital.
   organización para asegurar que todos los usuarios tengan conocimiento acerca
   de las amenazas de seguridad potenciales y las acciones que pueden tomar para
   proteger los sistemas de información. Por ejemplo:
-  - Programas de entrenamiento
-  - Simulacros de phishing
-  - Campañas de concienciación
+  - Programas de entrenamiento.
+  - Simulacros de phishing.
+  - Campañas de concienciación.
 
 - La **tecnología** se refiere a las soluciones de software y hardware diseñadas
   para proteger los sistemas de información. Por ejemplo:
-  - Firewalls
-  - Sistemas de detección/prevención de intrusos (IDS/IPS)
-  - Cifrado
-  - Soluciones EDR
-  - SIEM
+  - Firewalls.
+  - Sistemas de detección/prevención de intrusos (IDS/IPS).
+  - Cifrado.
+  - Soluciones EDR.
+  - SIEM.
   - Herramientas de gestión de parches.
 
 - La **política y las prácticas** se refieren a los controles administrativos,
   que proveen unas bases del cómo la organización implementará. Por ejemplo:
-  - Controles administrativos
-  - Políticas de acceso
-  - Clasificación de datos
+  - Controles administrativos.
+  - Políticas de acceso.
+  - Clasificación de datos.
   - Procedimientos de respuesta a incidentes.
 
 ### Activos y gestión de riesgos

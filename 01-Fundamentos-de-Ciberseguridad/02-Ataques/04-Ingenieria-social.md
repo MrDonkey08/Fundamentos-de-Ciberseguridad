@@ -16,7 +16,7 @@ Existen muchos tipos de ingeniería, entre ellas se encuentran:
     inconscientemente infecte una red.
 
 - **Pretexting**: Cuando un atacante le miente a un individuo con la intención
-  conseguir acceso a datos privilegiados o de que el individuo realice alguna
+  de conseguir acceso a datos privilegiados o de que el individuo realice alguna
   acción en concreto (e.g., enviar dinero).
 
 - **Tailgating/Piggybacking**: Cuando un atacante sigue a una persona autorizada
@@ -34,18 +34,19 @@ Existen muchos tipos de ingeniería, entre ellas se encuentran:
 
 - **Shoulder Surfing**: Ataque simple que consiste en observar o literalmente
   ver encima de hombro del objetivo para ganar información valiosa, (e.g., PINs,
-  códigos de acceso, datos de la tarjeta de crédito)
+  códigos de acceso, datos de la tarjeta de crédito).
 
 - **Something for something (quid pro quo)**: Cuando un atacante solicita
   información personal de una persona en cambio de algo, como un regalo.
 
 - **Fraude de identidad**: Consiste en el uso de la identidad robada de una
-  persona para obtener bienes o servicios mediante engaño.
+  persona para obtener bienes o servicios mediante engaños.
 
 - **Suplantación de identidad**: Es el acto de hacerse pasar por otra persona
   para inducir a alguien a hacer algo que normalmente no haría.
 
-- **Hoax**: Es el acto intencionado el cual tiene objetivo engañar a alguien.
+- **Hoax**: Es el acto intencionado el cual tiene como objetivo engañar a
+  alguien.
 
 - **Prepending**: Un atacante puede remover un email tag externo usado por una
   organización para alertar al destinatario que el correo ha sido originado de
@@ -58,7 +59,7 @@ Existen muchos tipos de ingeniería, entre ellas se encuentran:
   objetivo recolectar información personal o financiera del usuario.
 
 - **Campañas de influencia**: Usadas frecuentemente en ciberguerras. Son
-  usualmente usados por varios métodos coordinados, tal como noticias falsas,
+  usualmente usados por varios métodos coordinados, tales como noticias falsas,
   campañas de desinformación y publicaciones de redes sociales.
 
 - **Social media phishing**: Un actor de amenaza recolecta información detallada
@@ -88,15 +89,13 @@ personas para que revelen datos sensibles o despliegue software malicioso.
 
 - **Smishing**: El uso de mensajes de texto (SMS) para engañar a los
   destinatarios, con el fin de que divulguen información confidencial o lleven a
-  cabo acciones perjudiciales.
-
-  En este tipo de ataques los atacantes típicamente se hacen pasar por entidades
-  de confianza como bancos, agencias de gobierno, o servicios populares,
-  haciendo que las víctimas hagan click en enlaces maliciosos, descarguen
-  aplicaciones daninas, o proveen datos personales.
+  cabo acciones perjudiciales. En este tipo de ataques los atacantes típicamente
+  se hacen pasar por entidades de confianza como bancos, agencias de gobierno, o
+  servicios populares, haciendo que las víctimas hagan click en enlaces
+  maliciosos, descarguen aplicaciones dañinas, o proveen datos personales.
 
 - **Vishing**: Explotación de comunicaciones de voz electrónicas para obtener
-  información sensible o suplantar la identidad una fuente conocida.
+  información sensible o suplantar la identidad de una fuente conocida.
 
 - **Pharming**: Este tipo de ataque dirige deliberadamente a los usuarios a una
   versión falsa de un sitio web oficial. Engañados haciéndoles creer que están
@@ -105,7 +104,7 @@ personas para que revelen datos sensibles o despliegue software malicioso.
 
 - **Wishing**: Es un método de ataque que va dirigido a usuarios de redes
   inalámbricas, en específico de puntos de acceso (AP) Wi-Fi públicos. Los
-  atacantes instalan AP fraudulentos o compromenten existentes para interceptar
+  atacantes instalan AP fraudulentos o comprometen existentes para interceptar
   el tráfico o redirigir usuarios a sitios webs maliciosos.
 
 ## Principios de ingeniería social
@@ -115,12 +114,12 @@ generalmente confían y están condicionados a respetar a personas de autoridad.
 
 Algunos motivos del porqué los ataques de ingeniería social son efectivos son:
 
-- **Autoridad**: Las actores de amenaza se hacen pasar por individuo con poder.
+- **Autoridad**: Los actores de amenaza se hacen pasar por individuos con poder.
   Esto porque la gente, en general, han sido condicionados a respetar y seguir a
   personas de autoridad.
 
 - **Intimidación**: Los actores de amenaza usan tácticas de bullying. Esto
-  incluye persuadir o intimidar a las victimas para que realicen lo indicado.
+  incluye persuadir o intimidar a las víctimas para que realicen lo indicado.
 
 - **Consenso o prueba social**: Las personas tienden a hacer cosas que piensan
   que otras personas hacen. Los actores de amenaza usan esta confianza de otros

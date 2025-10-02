@@ -132,12 +132,12 @@ almacenarlas.
   cuando sea posible.
 
 - Crear contraseñas complejas. Incluir una mezcla de:
-  - Mayúsculas (A-Z)
-  - Minúsculas (a-z)
-  - Números (0-9)
-  - Símbolos especiales (`!@#$%^&*()_-+=[]{};:'",.<>/?`)
-  - Espacios (si el servicio lo permite)
-  - Caracteres adicionales (si está permitido)
+  - Mayúsculas (A-Z).
+  - Minúsculas (a-z).
+  - Números (0-9).
+  - Símbolos especiales (`!@#$%^&*()_-+=[]{};:'",.<>/?`).
+  - Espacios (si el servicio lo permite).
+  - Caracteres adicionales (si está permitido).
 
   > [!TIP]
   >
@@ -159,46 +159,46 @@ almacenarlas.
 
 - Evitar contraseñas fáciles de adivinar, por ejemplo:
   - Repeticiones o patrones comunes (e.g., `123456`, `000000`, `1234abcd`,
-    `qwerty`)
-  - Palabras de diccionarios de cualquier idioma
-  - Nombres propios
+    `qwerty`).
+  - Palabras de diccionarios de cualquier idioma.
+  - Nombres propios.
   - Contraseñas filtradas en bases de datos públicas (e.g.,
-    [SecLists - Leaked Databases](https://github.com/danielmiessler/SecLists/tree/master/Passwords/Leaked-Databases))
-  - Secuencias de números o letras (e.g., `123456`, `abcdef`)
-  - Información asociada a la cuenta (e.g., ID, nombre de usuario, e-mail)
+    [SecLists - Leaked Databases](https://github.com/danielmiessler/SecLists/tree/master/Passwords/Leaked-Databases)).
+  - Secuencias de números o letras (e.g., `123456`, `abcdef`).
+  - Información asociada a la cuenta (e.g., ID, nombre de usuario, e-mail).
   - Información personal (e.g., nombres, fechas importantes (e.g., de
-    nacimiento, aniversarios), números de teléfono)
+    nacimiento, aniversarios), números de teléfono).
 
 - Usar técnicas de ofuscación (útiles solo como complemento, no como única
   medida):
   - **Sustituciones inteligentes**:
-    - `Smith` → `5m1Th` o `5mYth`
-    - `Security` → `S3cur!t¥`
+    - `Smith` → `5m1Th` o `5mYth`.
+    - `Security` → `S3cur!t¥`.
 
   - **Inserción de caracteres**:
-    - Espacios o símbolos al azar: `G@ t0__2025` en lugar de `Gato`
+    - Espacios o símbolos al azar: `G@ t0__2025` en lugar de `Gato`.
 
 ## Gestión de cuentas y contraseñas
 
 - Revisar periódicamente que las cuentas no hayan sido comprometidas (véase la
   sección
-  [Cuentas vulnerables por brechas de seguridad](#cuentas-vulnerables-por-brechas-de-seguridad))
+  [Cuentas vulnerables por brechas de seguridad](#cuentas-vulnerables-por-brechas-de-seguridad)).
 
 - Cambiar contraseñas periódicamente (e.g., cada 3-6 meses) e inmediatamente
-  ante una brecha de seguridad o sospecha de compromiso de la contraseña
+  ante una brecha de seguridad o sospecha de compromiso de la contraseña.
 
-- No utilizar la misma contraseña (o patrones similares) en distintos servicios
+- No utilizar la misma contraseña (o patrones similares) en distintos servicios.
 
-- No reutilizar contraseñas viejas que puedan haber sido comprometidas
+- No reutilizar contraseñas viejas que puedan haber sido comprometidas.
 
 - No escribir contraseñas en físico o en archivos de texto plano. Si debes
   guardarlas, hazlo de forma cifrada:
   - Archivos cifrados (e.g., [VeraCrypt](https://veracrypt.io/en/Home.html),
-    [GnuPG](https://gnupg.org/))
+    [GnuPG](https://gnupg.org/)).
 
   - Gestores de contraseñas (e.g., [KeePass](https://keepass.info/),
     [Bitwarden](https://bitwarden.com/), [NordPass](https://nordpass.com/),
-    [Proton Pass](https://proton.me/es-419/pass))
+    [Proton Pass](https://proton.me/es-419/pass)).
 
   > [!TIP]
   >
@@ -207,40 +207,40 @@ almacenarlas.
   > sincronización y facilidad de uso, sin embargo, son susceptibles a brechas
   > de seguridad, aumentando la posibilidad de que los atacantes puedan
   > conseguir acceso a tus contraseñas. Véase
-  > [Keepass vs la nube](https://www.youtube.com/watch?v=uMDHPK-xyAA)
+  > [Keepass vs la nube](https://www.youtube.com/watch?v=uMDHPK-xyAA).
 
 - Usar 2FA/MFA siempre que sea posible:
   - Aplicaciones de autenticación TOTP ([Aegis](https://aegisauth.com/),
     [Ente Auth](https://ente.io/auth/),
     [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=es_MX&pli=1)) -
-    opción recomendada
+    opción recomendada.
 
-  - Correos electrónicos para verificación - menos seguro que TOTP/security key
+  - Correos electrónicos para verificación - menos seguro que TOTP/security key.
 
-  - SMS/llamadas - **última opción** por riesgo de interceptación/port-out
+  - SMS/llamadas - **última opción** por riesgo de interceptación/port-out.
 
   - Llaves de seguridad (e.g.,
     [YubiKey](https://www.yubico.com/la-yubikey/?lang=es)) - actualmente la
     opción más segura para MFA. Véase
-    [Security keys for 2FA](https://www.youtube.com/watch?v=8Y77o23q_tg&pp=ygUVdGVjaG9yZSBoYXJkd2FyZSBrZXlz2AaLAg%3D%3D)
+    [Security keys for 2FA](https://www.youtube.com/watch?v=8Y77o23q_tg&pp=ygUVdGVjaG9yZSBoYXJkd2FyZSBrZXlz2AaLAg%3D%3D).
 
   > [!TIP]
   >
   > Personalmente no recomiendo apps de autenticación como Authy, Microsoft
   > Authenticator, o Google Authenticator. Véase
-  > [Cómo usar TOTP para máxima seguridad](https://www.youtube.com/watch?v=iXSyxm9jmmo&t=394s)
+  > [Cómo usar TOTP para máxima seguridad](https://www.youtube.com/watch?v=iXSyxm9jmmo&t=394s).
 
 - No compartir contraseñas por correo, chat o cualquier medio inseguro. Para
-  utiliza herramientas seguras de compartición (e.g.,
+  ello utiliza herramientas seguras de compartición (e.g.,
   [One-Time Secret](https://onetimesecret.com/),
   [Vanish](https://www.vanish.so/), [Cryptgeon](https://cryptgeon.org/)).
 
   > [!NOTE]
   >
   > Existen gestores de contraseñas que tienen la opción de compartir
-  > contraseñas, tal como NordPass y LastPass
+  > contraseñas, tal como NordPass y LastPass.
 
-- Cerrar sesión en dispositivos públicos y ajenos
+- Cerrar sesión en dispositivos públicos y ajenos.
 
   > [!TIP]
   >
@@ -253,10 +253,10 @@ almacenarlas.
   > (véase
   > [Privacy Tools - Encrypted DNS](https://www.privacytools.io/encrypted-dns)),
   > y utilizar VPNs privados y seguros
-  > [Privacy Tools - Best VPN for Privacy & Security](https://www.privacytools.io/privacy-vpn)
+  > [Privacy Tools - Best VPN for Privacy & Security](https://www.privacytools.io/privacy-vpn).
 
 - Verificar URLs y certificados (e.g., comprobar HTTPS y certificado válido)
-  antes de introducir credenciales
+  antes de introducir credenciales.
 
 ## Recursos recomendados
 
