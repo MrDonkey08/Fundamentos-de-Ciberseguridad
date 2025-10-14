@@ -75,10 +75,10 @@ adecuadas.
   sistema, corrupción de datos, o proveer escalado de privilegios.
 
 - **Input no validado**: Cuando un _input_ (entrada) no es validado, un atacante
-  puede ingresar datos maliciosos, los cuales provocan que el programa tenga
-  resultados o comportamientos inesperados. El _input no validado_ puede causar
-  vulnerabilidades en sistemas y aplicaciones que resultan en _buffer overflow_
-  o _ataques de inyección de código_.
+  puede ingresar datos maliciosos, los cuales pueden provocar que el programa
+  tenga resultados o comportamientos inesperados. El _input no validado_ puede
+  causar vulnerabilidades en sistemas y aplicaciones que resultan en _buffer
+  overflow_ o _ataques de inyección de código_ (e.g., SQL, XSS).
 
 - **Condiciones de carrera**: En el paralelismo o la concurrencia, una
   **condición de carrera** ocurre cuando dos o más procesos o hilos, que tienen
@@ -95,11 +95,6 @@ adecuadas.
     dependencia lógica (e.g., que una deba completarse antes que otra) no están
     coordinadas correctamente, lo que puede causar que se ejecuten fuera de
     orden.
-
-- **Input no validado**: Cuando una _input_ no es validado, un atacante puede
-  ingresar datos maliciosos que pueden provocar que el programa tenga resultados
-  impredecibles o que se comporte diferente a lo intencionado (puede derivar en
-  inyecciones SQL, XSS).
 
 - **Manejo inadecuado de errores**: Mensajes de error detallados pueden filtrar
   información sensible como rutas de archivos, datos de base de datos (e.g.,
