@@ -228,8 +228,14 @@ recomendados que son usados para crear aplicaciones y servicios seguros.
 
 ## Referencias
 
-- <https://www.coursera.org/learn/manage-security-risks/lecture/KgUAD/explore-the-cissp-security-domains-part-1>
+- Google (s.f.). _Explore the CISSP security domains, Part 1_. Play It Safe:
+  Manage Security Risks.
+  <https://www.coursera.org/learn/manage-security-risks/lecture/KgUAD/explore-the-cissp-security-domains-part-1>
 
-- <https://www.coursera.org/learn/manage-security-risks/lecture/mKNXE/explore-the-cissp-security-domains-part-2>
+- Google (s.f.). _Explore the CISSP security domains, Part 2_. Play It Safe:
+  Manage Security Risks.
+  <https://www.coursera.org/learn/manage-security-risks/lecture/mKNXE/explore-the-cissp-security-domains-part-2>
 
-- <https://www.coursera.org/learn/manage-security-risks/supplement/TluHD/security-domains-cybersecurity-analysts-need-to-know>
+- Google (s.f.). _Security domains cybersecurity analysts need to know_. Play It
+  Safe: Manage Security Risks.
+  <https://www.coursera.org/learn/manage-security-risks/supplement/TluHD/security-domains-cybersecurity-analysts-need-to-know>

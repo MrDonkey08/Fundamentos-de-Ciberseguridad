@@ -20,3 +20,9 @@ tráfico
 
 - **Ping de la muerte**: Tipo de ataque DoS causado cuando un atacante _pings_
   un sistema al mandarle un paquete ICMP demasiado grande, de más de 64 KB
+
+## Referencias
+
+- Google (s.f.). _Denial of Service (DoS) attacks_. Connect and Protect:
+  Networks and Network Security.
+  <https://www.coursera.org/learn/networks-and-network-security/lecture/38QD3/denial-of-service-dos-attacks>

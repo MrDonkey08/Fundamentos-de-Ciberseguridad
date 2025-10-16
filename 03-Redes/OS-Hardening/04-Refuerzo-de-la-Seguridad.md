@@ -42,4 +42,6 @@ organization
 
 ## Referencias
 
+- Google (s.f.). _Network security in the cloud_. Connect and Protect: Networks
+  and Network Security.
 - <https://www.coursera.org/learn/networks-and-network-security/lecture/hbD5B/network-security-in-the-cloud>

@@ -153,8 +153,14 @@ dispositivos o tráfico anormal.
 
 ## Referencias
 
-- <https://www.coursera.org/learn/networks-and-network-security/lecture/bK86y/wireless-protocols>
+- Google (s.f.). _Wireless protocols_. Connect and Protect: Networks and Network
+  Security.
+  <https://www.coursera.org/learn/networks-and-network-security/lecture/bK86y/wireless-protocols>
 
-- <https://www.coursera.org/learn/networks-and-network-security/supplement/x73QK/the-evolution-of-wireless-security-protocols>
+- Google (s.f.). _The evolution of wireless security protocols_. Connect and
+  Protect: Networks and Network Security.
+  <https://www.coursera.org/learn/networks-and-network-security/supplement/x73QK/the-evolution-of-wireless-security-protocols>
 
-- <https://www.zenarmor.com/docs/network-basics/what-is-bluetooth>
+- Zenarmor (mayo 28, 2023). _Bluetooth in Cyber Security: Understanding
+  Bluetooth Attacks_.
+  <https://www.zenarmor.com/docs/network-basics/what-is-bluetooth>

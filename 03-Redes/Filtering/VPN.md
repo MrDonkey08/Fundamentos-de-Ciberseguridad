@@ -9,3 +9,9 @@ preservar confidencialidad.
 
 **Encapsulación**: Proceso realizado por un servicio de VPN, este protege tus
 datos al encapsular datos sensibles en otros paquetes de datos.
+
+## Referencias
+
+- Google (s.f.). _Virtual private networks (VPNs)_. Connect and Protect:
+  Networks and Network Security.
+  <https://www.coursera.org/learn/networks-and-network-security/lecture/noaXj/virtual-private-networks-vpns>

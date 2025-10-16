@@ -38,7 +38,6 @@ El CSF está compuesto por 6 importantes funciones:
    ciberseguridad a través de todos los níveles de la organización. Se trata de
    establecer y mantener las estructuras y los procesos necesarios para manejar
    eficazmente los riesgos de ciberseguridad. Esto incluye cosas como:
-
    - Establecer objetivos claros de ciberseguridad
    - Asegurar compromiso de liderazgo
    - Desarrollar e implementar una estrategia global de gestión de riesgos
@@ -54,7 +53,6 @@ El CSF está compuesto por 6 importantes funciones:
 4. **Detectar**: Identificar los incidentes potenciales de seguridad y las
    capacidades de mejorar la monitorización para incrementar la velocidad y la
    eficiencia de detecciones.
-
    - Bajo riesgo
    - Medio riesgo
    - Alto riesgo
@@ -68,6 +66,12 @@ El CSF está compuesto por 6 importantes funciones:
 
 ## Referencias
 
-- <https://www.coursera.org/learn/manage-security-risks/lecture/uDXBd/nist-s-risk-management-framework>
+- Google (s.f.). _NIST’s Risk Management Framework_. Play It Safe: Manage
+  Security Risks.
+  <https://www.coursera.org/learn/manage-security-risks/lecture/uDXBd/nist-s-risk-management-framework>
 
-- <https://www.coursera.org/learn/manage-security-risks/lecture/fsQ6X/nist-frameworks>
+- Google (s.f.). _NIST frameworks_. Play It Safe: Manage Security Risks.
+  <https://www.coursera.org/learn/manage-security-risks/lecture/fsQ6X/nist-frameworks>
+
+- Secureframe (julio 11, 2024). _Comprender el Marco de Gestión de Riesgos del
+  NIST: Una guía completa_. <https://secureframe.com/es-es/blog/nist-rmf>

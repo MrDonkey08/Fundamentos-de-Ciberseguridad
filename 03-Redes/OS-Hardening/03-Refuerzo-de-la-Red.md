@@ -99,3 +99,13 @@ firewalls, VPNs, proxies y registros de DNS. Herramientas SIEM son una manera de
 agregar datos de eventos de seguridad para que todo aparezca en un solo lugar
 para que los analistas de seguridad puedan analizarlo. Esto es referido como
 _single pane of glass_.
+
+## Referencias
+
+- Google (s.f.). _Network hardening practices_. Connect and Protect: Networks
+  and Network Security.
+  <https://www.coursera.org/learn/networks-and-network-security/lecture/q0gEZ/network-hardening-practices>
+
+- Google (s.f.). _Network security applications_. Connect and Protect: Networks
+  and Network Security.
+  <https://www.coursera.org/learn/networks-and-network-security/supplement/U4ch1/network-security-applications>

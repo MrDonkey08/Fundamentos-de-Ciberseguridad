@@ -29,7 +29,6 @@ Existen 4 tipos de firewalls:
    Defender Firewall, firewalls en antivirus).
 
    Protege **individualmente** ese equipo, filtrando tráfico entrante/saliente.
-
    - Ejemplo: Bloquear que un juego acceda a Internet si se sospecha que envía
      datos privados.
 
@@ -38,12 +37,10 @@ Existen 4 tipos de firewalls:
 
    Se ubica entre el módem y los dispositivos locales, filtrando tráfico antes
    de que llegue a ellos.
-
    - Ejemplo: Impedir que hackers externos escaneen puertos de tu red doméstica.
 
 3. **Cloud-based firewall**: Software firewalls que están hosteados por un
    provedor de servicios de nube.
-
    - **Stateful**: Una clase de firewall que mantiene seguimiento de la
      información que pasa a través de él y proactivamente filtra amenazas.
 
@@ -54,7 +51,6 @@ Existen 4 tipos de firewalls:
      predefinidas y no mantiene seguimiento de la información de los paquetes.
 
 4. **NGFWs (Next Generation firewall)**:
-
    - Inspección stateful de tráfico entrante y saliente
 
    - **Inspección de paquetes profundo**: Un tipo de _packet sniffing_ que
@@ -66,7 +62,6 @@ Existen 4 tipos de firewalls:
    - Inteligencia de amenazas
 
    - Algunos NGFWs tienen funciones adicionales tales como:
-
      - Malware Sandboxing
      - Network Anti-Virus
      - URL Filtering
@@ -84,3 +79,9 @@ Existen 4 tipos de firewalls:
 
 - **Cumplimiento legal**: En entornos profesionales, suele ser un requisito
   (e.g., normativas de protección de datos).
+
+## Referencias
+
+- Google (s.f.). _Firewalls and network security measures_. Connect and Protect:
+  Networks and Network Security.
+  <https://www.coursera.org/learn/networks-and-network-security/lecture/TrOAQ/firewalls-and-network-security-measures>

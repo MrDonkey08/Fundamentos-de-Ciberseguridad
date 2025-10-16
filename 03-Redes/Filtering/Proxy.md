@@ -19,3 +19,9 @@ servidores.
 
   Esta herramienta sirve al permitir tráfico de entidades externas, aprobándolas
   y compartiéndolas a servidores internos.
+
+## Referencias
+
+- Google (s.f.). _Proxy servers_. Connect and Protect: Networks and Network
+  Security.
+  <https://www.coursera.org/learn/networks-and-network-security/lecture/P0Wj5/proxy-servers>

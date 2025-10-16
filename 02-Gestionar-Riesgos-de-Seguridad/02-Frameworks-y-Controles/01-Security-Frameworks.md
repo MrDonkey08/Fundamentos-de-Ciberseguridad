@@ -96,4 +96,5 @@ Ejemplos de controles administrativos:
 
 ## Referencias
 
-- <https://www.coursera.org/learn/manage-security-risks/lecture/172X9/frameworks>
+- Google (s.f.). _Frameworks_. Play It Safe: Manage Security Risks.
+  <https://www.coursera.org/learn/manage-security-risks/lecture/172X9/frameworks>

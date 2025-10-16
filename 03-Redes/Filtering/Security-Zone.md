@@ -12,12 +12,16 @@ Segmento de una red que protege la red interna del internet
   incontrolada_incontrolada_
 
   Existen varias tipos de redes dentro de la zona controlada:
-
   - **Zona demilitada (DMZ)**: Contiene public-facing servicios que pueden
     acceder al internet
 
   - **Red interna**: Contiene servidores y datos privados que la organización
     necesita proteger
-
     - **Zona restringida**: Protege información altamente confidencial que es
       solo accesible a empleados con ciertos privilegios.
+
+## Referencias
+
+- Google (s.f.). _Security zones_. Connect and Protect: Networks and Network
+  Security.
+  <https://www.coursera.org/learn/networks-and-network-security/lecture/GccYm/security-zones>

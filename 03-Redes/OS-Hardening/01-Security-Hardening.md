@@ -23,4 +23,6 @@ El _refuerzo de la seguridad_ se lleva a cabo en:
 
 ## Referencias
 
-- <https://www.coursera.org/learn/networks-and-network-security/lecture/0hAcA/security-hardening>
+- Google (s.f.). _Security hardening_. Connect and Protect: Networks and Network
+  Security.
+  <https://www.coursera.org/learn/networks-and-network-security/lecture/0hAcA/security-hardening>

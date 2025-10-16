@@ -57,4 +57,6 @@ tal como nombres de usuario y contraseñas e
 
 ## Referencias
 
-- <https://www.coursera.org/learn/networks-and-network-security/supplement/vqo1C/read-tcpdump-logs>
+- Google (s.f.). _Read tcpdump logs_. Connect and Protect: Networks and Network
+  Security.
+  <https://www.coursera.org/learn/networks-and-network-security/supplement/vqo1C/read-tcpdump-logs>

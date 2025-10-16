@@ -58,4 +58,6 @@ El _Open Web Applications Security Project_ (OWASP)
 
 ## Referencias
 
-- <https://www.coursera.org/learn/manage-security-risks/supplement/J6QBR/more-about-owasp-security-principles>
+- Google (s.f.). _More about OWASP security principles_. Play It Safe: Manage
+  Security Risks.
+  <https://www.coursera.org/learn/manage-security-risks/supplement/J6QBR/more-about-owasp-security-principles>

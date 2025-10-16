@@ -16,3 +16,9 @@ estándar seguro de encriptación.
 **Baseline configuration (baseline image)**: Un conjunto documentado de
 especificaciones dentro de un sistema que utiliza como una base para futuras
 construcciones, lanzamientos y actualizaciones
+
+## Referencias
+
+- Google (s.f.). _Brute force attacks and OS hardening_. Connect and Protect:
+  Networks and Network Security.
+  <https://www.coursera.org/learn/networks-and-network-security/supplement/j9rV7/brute-force-attacks-and-os-hardening>

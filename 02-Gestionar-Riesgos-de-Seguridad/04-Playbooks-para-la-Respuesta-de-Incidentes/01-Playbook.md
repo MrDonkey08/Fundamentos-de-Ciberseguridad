@@ -69,12 +69,21 @@ Fases:
 
 ## Referencias
 
-- <https://www.coursera.org/learn/manage-security-risks/lecture/0Foc7/phases-of-an-incident-response-playbook>
+- Google (s.f.). _Phases of an incident response playbook_. Play It Safe: Manage
+  Security Risks.
+  <https://www.coursera.org/learn/manage-security-risks/lecture/0Foc7/phases-of-an-incident-response-playbook>
 
-- <https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/xNrn4/tools-for-protecting-business-operations>
+- Google (s.f.). _Tools for protecting business operations_. Play It Safe:
+  Manage Security Risks.
+  <https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/xNrn4/tools-for-protecting-business-operations>
 
-- <https://www.coursera.org/learn/manage-security-risks/supplement/gZeAw/more-about-playbooks>
+- Google (s.f.). _More about playbooks_. Play It Safe: Manage Security Risks.
+  <https://www.coursera.org/learn/manage-security-risks/supplement/gZeAw/more-about-playbooks>
 
-- <https://www.coursera.org/learn/manage-security-risks/lecture/fHSKw/zack-incident-response-and-the-value-of-playbooks>
+  Google (s.f.). _Zack: Incident response and the value of playbooks_. Play It
+  Safe: Manage Security Risks.
+  <https://www.coursera.org/learn/manage-security-risks/lecture/fHSKw/zack-incident-response-and-the-value-of-playbooks>
 
-- <https://www.coursera.org/learn/manage-security-risks/lecture/tEfCU/use-a-playbook-to-respond-to-threats-risks-or-vulnerabilities>
+- Google (s.f.). _Use a playbook to respond to threats, risks, or
+  vulnerabilities_. Play It Safe: Manage Security Risks.
+  <https://www.coursera.org/learn/manage-security-risks/lecture/tEfCU/use-a-playbook-to-respond-to-threats-risks-or-vulnerabilities>

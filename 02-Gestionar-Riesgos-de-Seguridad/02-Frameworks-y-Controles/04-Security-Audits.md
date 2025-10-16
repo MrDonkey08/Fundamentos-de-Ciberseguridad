@@ -148,8 +148,13 @@ Las auditorías de seguridad internas ayudan a los equipos de seguridad a
 
 ## Referencias
 
-- <https://www.coursera.org/learn/manage-security-risks/lecture/zqzkU/plan-a-security-audit>
+- Google (s.f.). _Plan a security audit_. Play It Safe: Manage Security Risks.
+  <https://www.coursera.org/learn/manage-security-risks/lecture/zqzkU/plan-a-security-audit>
 
-- <https://www.coursera.org/learn/manage-security-risks/lecture/R6hLP/complete-a-security-audit>
+- Google (s.f.). _Complete a security audit_. Play It Safe: Manage Security
+  Risks.
+  <https://www.coursera.org/learn/manage-security-risks/lecture/R6hLP/complete-a-security-audit>
 
-- <https://www.coursera.org/learn/manage-security-risks/supplement/I8hEO/more-about-security-audits>
+- Google (s.f.). _More about security audits_. Play It Safe: Manage Security
+  Risks.
+  <https://www.coursera.org/learn/manage-security-risks/supplement/I8hEO/more-about-security-audits>

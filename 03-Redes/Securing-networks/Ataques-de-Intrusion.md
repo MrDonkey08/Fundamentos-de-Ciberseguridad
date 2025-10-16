@@ -78,3 +78,9 @@ Algunos impactos a la seguridad pública
 - Daño físico debido a ataques de intrusión. Por ejemplo, cuando un actor
   malicioso consigue acceso a una planta de energía, a un sistema de agua
   público o un sistema de comunicación de defensa militar.
+
+## Referencias
+
+- Google (s.f.). _How intrusions compromise your system_. Connect and Protect:
+  Networks and Network Security.
+  <https://www.coursera.org/learn/networks-and-network-security/supplement/PBt2O/how-intrusions-compromise-your-system>

@@ -44,3 +44,13 @@ Alguno ataques comunes de _IP spoofing_ son:
   dirección IP del emisor es la misma que la de la red privada, entonces el
   firewall deniega la transmisión, debido a que los dispositivos deberían estar
   ya en la red local.
+
+## Referencias
+
+- Google (s.f.). _Malicious packet sniffing_. Connect and Protect: Networks and
+  Network Security.
+  <https://www.coursera.org/learn/networks-and-network-security/lecture/At91i/malicious-packet-sniffing>
+
+- Google (s.f.). _IP Spoofing_. Connect and Protect: Networks and Network
+  Security.
+  <https://www.coursera.org/learn/networks-and-network-security/lecture/9hspL/ip-spoofing>

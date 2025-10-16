@@ -73,10 +73,17 @@ gestionar y supervisar los datos de la organización.
 
 ## Referencias
 
-- <https://www.coursera.org/learn/manage-security-risks/lecture/ve2c9/logs-and-siem-tools>
+- Google (s.f.). _Logs and SIEM tools_. Play It Safe: Manage Security Risks.
+  <https://www.coursera.org/learn/manage-security-risks/lecture/ve2c9/logs-and-siem-tools>
 
-- <https://www.coursera.org/learn/manage-security-risks/supplement/aZDtF/the-future-of-siem-tools>
+- Google (s.f.). _The future of SIEM tools_. Play It Safe: Manage Security
+  Risks.
+  <https://www.coursera.org/learn/manage-security-risks/supplement/aZDtF/the-future-of-siem-tools>
 
-- <https://www.coursera.org/learn/manage-security-risks/lecture/7TmUB/explore-common-siem-tools>
+- Google (s.f.). _Explore common SIEM tools_. Play It Safe: Manage Security
+  Risks.
+  <https://www.coursera.org/learn/manage-security-risks/lecture/7TmUB/explore-common-siem-tools>
 
-- <https://www.coursera.org/learn/manage-security-risks/supplement/lCYDs/use-siem-tools-to-protect-organizations>
+- Google (s.f.). _Use SIEM tools to protect organizations_. Play It Safe: Manage
+  Security Risks.
+  <https://www.coursera.org/learn/manage-security-risks/supplement/lCYDs/use-siem-tools-to-protect-organizations>
