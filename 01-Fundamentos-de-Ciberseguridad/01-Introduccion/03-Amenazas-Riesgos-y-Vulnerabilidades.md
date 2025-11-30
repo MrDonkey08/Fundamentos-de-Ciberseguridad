@@ -139,7 +139,7 @@ vulnerabilidades de sus sistemas.
   Security Risks.
   <https://www.coursera.org/learn/manage-security-risks/lecture/QsFVe/threats-risks-and-vulnerabilities>
 
-- NetAcad (s.f.). _1.4 Cyber Attackers_. _Introduction to Cybersecurity_.
+- NetAcad (s.f.). _1.4 Cyber Attackers_. Introduction to Cybersecurity.
   <https://www.netacad.com/launch?id=dc0847b7-d6fc-4597-bc31-38ddd6b07a2f&tab=curriculum&view=4e8a0baa-d5b9-5f43-b61c-869857aa5571>
 
 - Google (s.f.). _Manage common threats, risks, and vulnerabilities_. Play It

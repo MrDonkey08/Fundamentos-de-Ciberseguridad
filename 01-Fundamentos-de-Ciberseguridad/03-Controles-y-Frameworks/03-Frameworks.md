@@ -1,4 +1,4 @@
-# Frameworks
+# Frameworks, controles, y cumplimiento de la normativa (_compliance_)
 
 ## Instituto Nacional de Normas y Tecnología (NIST)
 
@@ -67,7 +67,7 @@ organizaciones que almacenan, aceptan, procesan y transmiten información de
 tarjetas de crédito lo hacen en un entorno seguro. El objetivo de esta norma de
 cumplimiento es reducir el fraude con tarjetas de crédito.
 
-## (HIPAA)
+## HIPAA
 
 La **Ley de Portabilidad y Responsabilidad del Seguro Médico (HIPAA)** es una
 ley federal estadounidense establecida en 1996 para proteger la información
@@ -96,7 +96,7 @@ tecnología, la fabricación y la gestión a través de las fronteras. Ayuda a l
 organizaciones a mejorar sus procesos y procedimientos de retención de personal,
 planificación, residuos y servicios.
 
-### Controles de Sistemas y Organizaciones (SOC tipo 1, SOC tipo 2)
+## Controles de Sistemas y Organizaciones (SOC tipo 1, SOC tipo 2)
 
 El consejo de normas de auditoría del American Institute of Certified Public
 Accountants® (AICPA) desarrolló esta norma. Los SOC1 y SOC2 son una serie de
@@ -114,3 +114,9 @@ Se utilizan para evaluar el cumplimiento financiero y los niveles de riesgo de
 una organización. También abarcan la confidencialidad, privacidad, integridad,
 disponibilidad, seguridad y protección general de los datos. Los fallos de
 control en estas áreas pueden conducir al fraude.
+
+## Referencias
+
+- Google (s.f.). _Controls, frameworks, and compliance_. Foundations of
+  Cybersecurity.
+  <https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/xu4pr/controls-frameworks-and-compliance>

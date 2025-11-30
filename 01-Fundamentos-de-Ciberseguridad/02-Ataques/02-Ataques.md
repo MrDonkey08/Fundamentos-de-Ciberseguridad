@@ -18,8 +18,8 @@ al negocio o empresa detrás del sistema.
   que controlan los dispositivos físicos o procesos en edificios, fábricas, o
   proveedores de utilidades, son vulnerables a los ataques DoS, que pueden
   causar que los sistemas se apaguen en extremas circunstancias.
-  - **Cantidad abrumadora de tráfico**: Cuando en red, host o aplicación le es
-    enviado una enorme cantidad de tráfico de datos a un ritmo que no puede
+  - **Cantidad abrumadora de tráfico**: Cuando a una red, host, o aplicación se
+    le envía una enorme cantidad de tráfico de datos a un ritmo que no puede
     manejar. Este puede causar ralentización en la transmisión o respuesta, o
     causa que el dispositivo o servicio crashee.
 
@@ -81,7 +81,7 @@ al negocio o empresa detrás del sistema.
     usuario. Cuando un dispositivo es infectado, se le indica al dispositivo
     filtrar datos sensibles del usuario y enviarlos al atacante.
 
-## Ataques de la capa 2
+#### Ataques de la capa 2
 
 La **capa 2** se refiere a la **capa de enlace de datos** del **modelo OSI**.
 
@@ -90,7 +90,7 @@ red. Las direcciones IP son mapeadas a una dirección física del dispositivo
 (MAC), usando un proceso llamado address resolution protocol (ARP) o protocolo
 de resolución de direcciones.
 
-### Spoofing
+##### Spoofing
 
 El **spoofing** o **poisoning**, es un tipo de ataque de suplantación de
 identidad que toma ventaja de la relación de confianza entre dos sistemas.
@@ -106,7 +106,7 @@ identidad que toma ventaja de la relación de confianza entre dos sistemas.
 - **IP spoofing**: Es cuando se envían paquetes IP de una dirección falsa para
   ocultar el origen del paquete.
 
-### MAC flooding
+##### MAC flooding
 
 Los dispositivos de una red son conectados a través de un switch de red al usar
 packet switching para recibir y compartir datos hacia el dispositivo destino. El

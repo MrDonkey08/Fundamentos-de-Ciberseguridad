@@ -65,7 +65,7 @@ Este modelo de seguridad tiene tres dimensiones:
 2. **Estados de la datos**.
 3. **Protección de los datos**.
 
-#### Principios de seguridad
+### Principios de seguridad
 
 La primera dimensión del cubo de la ciberseguridad identifica los objetivos para
 proteger el ciberespacio. Los principios de **confidencialidad, integridad y
@@ -101,7 +101,7 @@ al experto en ciberseguridad priorizar acciones cuando se protege a un sistema:
   - Mantenimiento de equipos.
   - Planes de recuperación ante desastres.
 
-#### Estados de los datos
+### Estados de los datos
 
 El dominio del ciberespacio contiene una cantidad considerable de datos
 importantes críticos. La segunda dimensión del cubo de la ciberseguridad
@@ -119,7 +119,7 @@ representa los tres estados posibles de los datos:
 Como profesionales de ciberseguridad debemos garantizar la seguridad de datos en
 cada uno de sus estados.
 
-#### Protección de los datos
+### Protección de los datos
 
 La tercera dimensión del cubo de ciberseguridad define los pilares en los que
 necesitaremos basar nuestras defensas de ciberseguridad para proteger los datos
@@ -224,8 +224,8 @@ personales y datos organizativos.
 
 ## Referencias
 
-- NetAcad (s.f.). _2.1 Common Threats_. Network Support and Security.
-  <https://www.netacad.com/launch?id=fa6ac75d-3afd-4bde-93f5-f164d8253ab6&tab=curriculum&view=0a3139ad-4519-5302-9361-df9197388c8d>
+- NetAcad (s.f.). _1.2 Organizational Data_. Introduction to Cybersecurity.
+  <https://www.netacad.com/launch?id=dc0847b7-d6fc-4597-bc31-38ddd6b07a2f&tab=curriculum&view=87ce2cbd-b497-5fdd-a2e3-5dd7e428818f>
 
 - Google (s.f.). _Threats, risks, and vulnerabilities_. Play It Safe: Manage
   Security Risks.
