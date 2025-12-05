@@ -2,40 +2,58 @@
 
 ## Risk Management Framework (RMF)
 
-1. **Preparar**: Actividades que son necesarias para gestionar riesgos de
-   seguridad y privacidad antes de que una brecha suceda.
+El **Risk Management Framework (RMF)** es un marco estructurado desarrollado por
+NIST que proporciona un proceso integral para integrar actividades de seguridad
+y gestión de riesgos en el ciclo de vida de desarrollo de sistemas. Este
+framework ayuda a las organizaciones a gestionar los riesgos de seguridad y
+privacidad de manera sistemática, repetible y medible, vinculando la gestión de
+riesgos con las actividades de ingeniería de sistemas y desarrollo de software.
 
-2. **Categorizar**: Usado para desarrollar procesos de gestión de riesgos y
-   tareas.
+El RMF se compone de los siguientes pasos:
 
-3. **Seleccionar**: Elegir, personalizar, y capturar documentación de los
-   controles que protegen una organización.
+1. **Preparar**: Realizar las actividades esenciales para **preparar** a la
+   organización para gestionar los riesgos de seguridad y privacidad antes de
+   que una brecha ocurra.
 
-4. **Implementar**: Implementar planes de seguridad y privacidad para la
-   organización.
+2. **Categorizar** el sistema y la información procesada, almacenada y
+   transmitida en base al análisis de impacto. Se utiliza para desarrollar
+   procesos y tareas de gestión de riesgos.
 
-5. **Evaluar**: Determinar si los controles establecidos están implementados
-   correctamente.
+3. **Seleccionar**, personalizar y documentar los controles de seguridad (e.g.,
+   del conjunto de controles NIST SP 800-53) que protegen a la organización
+   contra cada riesgo identificado.
 
-6. **Autorizar**: Ser responsable de los riesgos de seguridad y privacidad que
-   puedan existir en una organización.
+4. **Implementar** los planes de seguridad y privacidad, desplegar los controles
+   seleccionados y documentar su implementación.
 
-7. **Monitorizar**: Ser consciente de cómo los sistemas están operando.
+5. **Evaluar** para determinar que los controles estén implementados
+   correctamente y funcionen según lo previsto.
+
+6. **Autorizar**: El responsable (Authorizing Official) acepta formalmente los
+   riesgos residuales de seguridad y privacidad y **autoriza** el sistema para
+   que opere (ATO - Authorization to Operate).
+
+7. **Monitorizar** continuamente la implementación de los controles y los
+   riesgos para el sistema.
+
+> [!NOTE]
+>
+> Cabe destacar que este framework es cíclico.
 
 ## NIST Cybersecurity Framework (CSF)
 
 El **framework de ciberseguridad NIST (CSF)** es un framework voluntario que
-consiste en estándares, _guidelines_, y la mejores prácticas para gestionar los
-riesgos de ciberseguridad.
+consiste en estándares, lineamientos (_guidelines_), y las mejores prácticas
+para gestionar los riesgos de ciberseguridad.
 
 > [!NOTE]
 >
-> En la versión más reciente, CSF v2.0, se añadió la función Gobernar
+> En la versión más reciente, CSF v2.0, se añadió la función Gobernar.
 
 El CSF está compuesto por 6 importantes funciones:
 
 1. **Gobernar**: Enfatiza en la importancia de una gobernanza sólida de la
-   ciberseguridad a través de todos los níveles de la organización. Se trata de
+   ciberseguridad a través de todos los niveles de la organización. Se trata de
    establecer y mantener las estructuras y los procesos necesarios para manejar
    eficazmente los riesgos de ciberseguridad. Esto incluye cosas como:
    - Establecer objetivos claros de ciberseguridad
@@ -53,9 +71,6 @@ El CSF está compuesto por 6 importantes funciones:
 4. **Detectar**: Identificar los incidentes potenciales de seguridad y las
    capacidades de mejorar la monitorización para incrementar la velocidad y la
    eficiencia de detecciones.
-   - Bajo riesgo
-   - Medio riesgo
-   - Alto riesgo
 
 5. **Responder**: Asegurarse de que los procesos apropiados son utilizados para
    contener, neutralizar y analizar los incidentes de seguridad, e implementar
@@ -73,5 +88,13 @@ El CSF está compuesto por 6 importantes funciones:
 - Google (s.f.). _NIST frameworks_. Play It Safe: Manage Security Risks.
   <https://www.coursera.org/learn/manage-security-risks/lecture/fsQ6X/nist-frameworks>
 
+- Google (s.f.). _Explore the six functions of the NIST Cybersecurity
+  Framework_. Play It Safe: Manage Security Risks.
+  <https://www.coursera.org/learn/manage-security-risks/lecture/Jfojj/explore-the-six-functions-of-the-nist-cybersecurity-framework>
+
 - Secureframe (julio 11, 2024). _Comprender el Marco de Gestión de Riesgos del
   NIST: Una guía completa_. <https://secureframe.com/es-es/blog/nist-rmf>
+
+- ACI Learning, Wes B., & Deal L. (febrero, 2024). _Risk and Impact_. Security
+  Fundamentals.
+  <https://subscription.packtpub.com/video/security/9781835463376/p1/video1_4/risks-and-impact#0>
