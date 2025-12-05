@@ -1,6 +1,6 @@
 # Elementos de un Plan de Seguridad
 
-- **Políticas:** Conjunto de reglas que reducen el riesgo y protegen la
+- **Políticas**: Conjunto de reglas que reducen el riesgo y protegen la
   información.
 - **Estándares**: Referencias que informan cómo establecer políticas.
 - **Procedimientos**: Instrucciones paso a paso de cómo realizar una tarea de
@@ -16,10 +16,10 @@
 
 ### El framework de ciberseguridad NIST (CSF)
 
-Es un framework voluntario que consiste en estándares, lineamientos, y las
+Es un framework voluntario que consiste en estándares, lineamientos y las
 mejores prácticas para gestionar los riesgos de ciberseguridad.
 
-El CSF se está conformado de tres componentes:
+El CSF está conformado por tres componentes:
 
 - Núcleo (Core)
 - Niveles (Tiers)
@@ -37,10 +37,10 @@ El CSF se está conformado de tres componentes:
 El **núcleo CSF** es un conjunto de resultados que ayudan a las organizaciones a
 personalizar su plan de seguridad. Consiste de seis funciones que son comúnmente
 usadas como una referencia informativa para ayudar a las organizaciones a
-identificar a su activos más importantes y protegerlos con salvaguardas
-apropiados. El _núcleo CSF_ también es usado para entender las maneras de
-detectar ataques y desarrollar planas de respuesta y recuperación en caso de que
-un ataque suceda. Estas seis funciones son las siguientes
+identificar sus activos más importantes y protegerlos con salvaguardas
+apropiadas. El _núcleo CSF_ también es usado para entender las maneras de
+detectar ataques y desarrollar planes de respuesta y recuperación en caso de que
+un ataque suceda. Estas seis funciones son las siguientes:
 
 - Gobernar.
 - Identificar.
@@ -51,26 +51,28 @@ un ataque suceda. Estas seis funciones son las siguientes
 
 #### Niveles
 
-Los **niveles CSF** son una forma de medir el rendimientos del programa de
-ciberseguridad de una organización a través de cada una de las cinco funciones
-del _núcleo CSF_ . Los _niveles CSF_ son usados para evaluar la postura de
+Los **niveles CSF** son una forma de medir el rendimiento del programa de
+ciberseguridad de una organización a través de cada una de las seis funciones
+del _núcleo CSF_. Los _niveles CSF_ son usados para evaluar la postura de
 seguridad e identificar áreas de mejora. Los niveles van del 1 al 4 y se
 muestran a continuación:
 
 - **Nivel 1 o pasivo**: Indica que una función alcanza los estándares mínimos.
-- **Nivel 2**:
-- **Nivel 3**:
+- **Nivel 2 o informado por riesgo**: Indica que existe conciencia del riesgo de
+  ciberseguridad, pero no hay un enfoque formal para gestionarlo.
+- **Nivel 3 o repetible**: Indica que las prácticas de gestión de riesgos están
+  formalmente aprobadas y expresadas como políticas.
 - **Nivel 4 o adaptativo**: Indica que una función se realiza con un nivel
   ejemplar.
 
 #### Perfiles
 
-Los **perfiles CSF** son plantillas prehechas del NIST CSF desarrollas por un
+Los **perfiles CSF** son plantillas prehechas del NIST CSF desarrolladas por un
 equipo de expertos de la industria. Los _perfiles CSF_ son diseñados a la medida
 para abordar los riesgos específicos de una organización o una industria. Estos
-son usados por las organizaciones como una desarrollar una base de referencia
-para sus planes de ciberseguridad o como una forma de comparar su postura actual
-de ciberseguridad con un estándar específico de la industria.
+son usados por las organizaciones para desarrollar una base de referencia para
+sus planes de ciberseguridad o como una forma de comparar su postura actual de
+ciberseguridad con un estándar específico de la industria.
 
 ## Referencias
 

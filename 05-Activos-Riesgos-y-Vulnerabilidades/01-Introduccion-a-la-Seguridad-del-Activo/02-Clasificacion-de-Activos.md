@@ -55,11 +55,14 @@ clasifican de la siguiente manera:
 
 - **Públicos**: Activos accesibles a cualquiera. No provocan ningún impacto
   negativo si son comprometidos.
+
 - **Solo interno**: Activos accesibles al personal dentro de una organización o
   socios de negocios. Pueden provocar un impacto negativo bajo si son
   comprometidos.
+
 - **Confidencial**: Activos accesibles solo a personas autorizadas. Pueden
   provocar un impacto negativo significativo si son comprometidos.
+
 - **Restringido**: Activos confidenciales y altamente sensibles. Pueden provocar
   un impacto negativo alto si son comprometidos.
 
@@ -70,9 +73,11 @@ siguiente manera:
 
 - **Activo de bajo riesgo**: Información que no dañaría la reputación, las
   operaciones en ejecución y las finanzas de la organización si es comprometida.
+
 - **Activo de medio riesgo**: Información que no está disponible al público y
   puede causar daños a la reputación, las operaciones en ejecución y las
   finanzas de la organización si es comprometida.
+
 - **Activo de alto riesgo**: Información protegida por regulaciones y leyes, la
   cual, si es comprometida, tendría impactos negativos severos a la reputación,
   las operaciones en ejecución y las finanzas de la organización.
