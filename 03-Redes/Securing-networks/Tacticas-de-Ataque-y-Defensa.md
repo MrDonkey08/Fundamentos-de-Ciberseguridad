@@ -34,7 +34,7 @@ Alguno ataques comunes de _IP spoofing_ son:
 - **Smurf attack**: Ataque de red realizado cuando un atacante _sniffs_ una
   dirección IP de un usuario autorizado y lo inunda con paquetes.
 
-### Cómo proteger una red de iP spoofing
+### Cómo proteger una red de IP spoofing
 
 - Implementar encriptación durante las comunicaciones, (e.g., TLS/SSL)
 

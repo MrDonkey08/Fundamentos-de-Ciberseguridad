@@ -4,7 +4,7 @@
 recursos y datos en centros de datos remotos que pueden ser accesible mediante
 el internet.
 
-Pueden _host_ datos de la compañia y aplicaciones usando computación en la nube,
+Pueden _host_ datos de la compañía y aplicaciones usando computación en la nube,
 servidores de nube también requiere mantenimiento hecho mediante varios
 procedimientos de refuerzo de seguridad.
 
@@ -44,4 +44,4 @@ organization
 
 - Google (s.f.). _Network security in the cloud_. Connect and Protect: Networks
   and Network Security.
-- <https://www.coursera.org/learn/networks-and-network-security/lecture/hbD5B/network-security-in-the-cloud>
+  <https://www.coursera.org/learn/networks-and-network-security/lecture/hbD5B/network-security-in-the-cloud>

@@ -106,7 +106,7 @@ a un recurso de red seguro.
 
 Una vez conectado, el rogue AP puede ser utilizado por un atacante para capturar
 direcciones MAC, capturar paquetes de datos, ganar acceso a los recursos de red
-o lanzar ataques man-in-the-middle.
+o lanzar ataques Man-in-the-Middle.
 
 Un red hotspot personal también podría ser usado como un rogue AP. Por ejemplo,
 un usuario con acceso a una conexión segura habilita se equipo como un Wi-Fi AP.
@@ -164,3 +164,6 @@ dispositivos o tráfico anormal.
 - Zenarmor (mayo 28, 2023). _Bluetooth in Cyber Security: Understanding
   Bluetooth Attacks_.
   <https://www.zenarmor.com/docs/network-basics/what-is-bluetooth>
+
+- NetAcad (s.f.). _3.6. Secure Wireless Access_. Network Support and Security.
+  <https://www.netacad.com/launch?id=fa6ac75d-3afd-4bde-93f5-f164d8253ab6&tab=curriculum&view=a0acbd67-8f34-5df5-95a8-41de75301701>
