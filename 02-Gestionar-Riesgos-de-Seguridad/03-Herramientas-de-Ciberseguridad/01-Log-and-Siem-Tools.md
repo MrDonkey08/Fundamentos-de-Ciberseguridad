@@ -9,7 +9,7 @@ Los logs comúnmente se guardan en archivos logs. Un **archivo log** guarda un
 conjunto de logs que pertenecen a un mismo grupo o categoría (e.g., logs de
 inicio de sesión).
 
-### Fuentes comunes de logs
+### Fuentes Comunes de Logs
 
 - **Logs de firewall**: Registros de intentos de conexión o conexiones
   establecidas de tráfico proveniente del internet. También incluye solicitudes
@@ -39,7 +39,7 @@ que se identifique. Las herramientas SIEM tienen muchas opciones de panel de
 control. Cada una de ellas ayuda a los miembros del equipo de ciberseguridad a
 gestionar y supervisar los datos de la organización.
 
-### Tipos de herramientas SIEM
+### Tipos de Herramientas SIEM
 
 - **Auto-alojadas**: Requiere que las organizaciones instalen, operen, y
   mantengan la herramienta haciendo uso de su propia infraestructura física.
@@ -57,7 +57,7 @@ gestionar y supervisar los datos de la organización.
   pueden escoger una solución híbrida para aprovechar los beneficios de la nube
   manteniendo el control físico de los datos confidenciales.
 
-### Herramientas SIEM comunes
+### Herramientas SIEM Comunes
 
 - **Splunk Enterprise**: Una herramienta self-hosted usada para retener,
   analizar, y buscar datos de los de una organización para proveer información

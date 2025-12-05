@@ -1,6 +1,6 @@
 # Atacantes
 
-## Tipos de atacantes
+## Tipos de Atacantes
 
 ### Principiantes
 
@@ -48,7 +48,7 @@ profesionales. Estos son clasificados según la intención de su intrusión:
   aprovechan de cualquier vulnerabilidad para obtener un beneficio personal,
   financiero o político ilegal.
 
-### Hackers organizados
+### Hackers Organizados
 
 Estos atacantes incluyen organizaciones de cibercriminales, hacktivistas,
 terroristas y hackers patrocinados por el Estado. Suelen ser muy sofisticados y

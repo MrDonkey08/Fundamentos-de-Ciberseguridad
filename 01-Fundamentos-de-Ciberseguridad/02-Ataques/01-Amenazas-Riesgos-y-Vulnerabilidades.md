@@ -9,7 +9,7 @@ para violar un sistema o la información que este contiene.
 Un **riesgo** es cualquier cosa que puede impactar a la confidencialidad,
 integridad, o disponibilidad de un activo.
 
-## Riesgos de activos
+## Riesgos de Activos
 
 - **Activo de bajo riesgo**: Información que no dañaría la reputación, las
   operaciones en ejecución, y las finanzas de la organización si es

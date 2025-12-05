@@ -18,7 +18,7 @@ gestión de eventos), para identificar amenazas, riesgos y vulnerabilidades. Est
 ayuda a mantener la postura de seguridad de una organización. Y, si hay
 problemas de seguridad, debe existir un proceso de corrección.
 
-## Metas y objetivos de una auditoría
+## Metas y Objetivos de una Auditoría
 
 El objetivo de una auditoría es garantizar que las prácticas de tecnología de la
 información (TI) de una organización cumplen las normas del sector y de la
@@ -34,7 +34,7 @@ evitar penalizaciones y demandas de agencias gubernamentales.
 > La frecuencia de las auditorías dependen de las leyes locales y de las normas
 > de cumplimiento (_compliance regulations_) federales.
 
-## Factores que afectan a las auditorías
+## Factores Que Afectan a las Auditorías
 
 Entre los factores que determinan los tipos de auditorías que aplica una
 organización se incluyen:
@@ -45,7 +45,7 @@ organización se incluyen:
 - La ubicación geográfica de una empresa
 - Una decisión empresarial de adherirse a un cumplimiento normativo específico
 
-## Checklist de auditoría
+## Checklist de Auditoría
 
 Es necesario crear una checklist de auditoría antes de llevar a cabo una
 auditoría. Un checklist se compone generalmente de las siguientes áreas de
@@ -78,11 +78,11 @@ interés:
   organización y las normas y reglamentos de cumplimiento que ésta debe
   respetar.
 
-## Tipos de auditorías
+## Tipos de Auditorías
 
 Existen dos tipos de _auditorías de seguridad_, internas y externas.
 
-### Auditorías internas de seguridad
+### Auditorías Internas de Seguridad
 
 Una auditoría interna de seguridad suele ser realizada por un equipo de personas
 que puede incluir al responsable del compliance de una organización, al director
@@ -92,7 +92,7 @@ Las auditorías internas de seguridad se utilizan para ayudar a mejorar la
 postura de seguridad de una organización y ayudar a las organizaciones a evitar
 multas de los organismos gubernamentales debido a la falta de compliance.
 
-#### Propósitos de auditorías de seguridad internas
+#### Propósitos de Auditorías de Seguridad Internas
 
 Las auditorías de seguridad internas ayudan a los equipos de seguridad a
 
@@ -100,7 +100,7 @@ Las auditorías de seguridad internas ayudan a los equipos de seguridad a
 - Evaluar los controles
 - Corregir los problemas de compliance
 
-#### Elementos comunes de auditorías internas
+#### Elementos Comunes de Auditorías Internas
 
 - **Establecer el alcance y los objetivos**:
 

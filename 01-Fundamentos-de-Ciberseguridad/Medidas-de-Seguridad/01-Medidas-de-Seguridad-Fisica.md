@@ -1,6 +1,6 @@
 # Medidas de Seguridad Física
 
-## Controles de acceso físico
+## Controles de Acceso Físico
 
 Los **controles de acceso físico** son barreras físicas y procedimientos
 diseñados para prevenir el contacto físico no autorizado con los sistemas. El
@@ -25,7 +25,7 @@ Algunos ejemplos de _controles de acceso físico_ son:
   personas en zonas sensibles.
 - Alarmas de intrusión y sensores (puertas/ventanas/rotura de cristales).
 
-### Sistema de videovigilancia
+### Sistema de Videovigilancia
 
 Los **sistemas de videovigilancia** consisten en una red de cámaras instaladas
 en un edificio o recinto. Estas cámaras permiten grabar y, opcionalmente, ser
@@ -51,7 +51,7 @@ alertas automáticas para reducir la carga humana y mejorar tiempos de respuesta
 > pocos miles hasta cifras mucho mayores en proyectos corporativos — es variable
 > y debe cotizarse por proyecto.
 
-### Racks cerrados (o de gabinetes)
+### Racks Cerrados (o de Gabinetes)
 
 Los **racks cerrados** o **gabinetes** son armarios donde se alojan servidores y
 equipamiento de red para evitar manipulación física no autorizada (e.g.,
@@ -64,7 +64,7 @@ de acceso, registro de entrada/salida y sellos/precintos cuando proceda.
 > switches, routers, cámaras) facilita la detección de dispositivos no
 > autorizados (e.g., routers o hubs instalados clandestinamente).
 
-### Puertas con control de acceso
+### Puertas Con Control de Acceso
 
 En una empresa, es importante, controlar a todo momento **qué**, **quiénes**, y
 a **qué** áreas dentro del edificio pueden acceder, para ello se pueden
@@ -80,7 +80,7 @@ Adicionalmente, se recomienda que las puertas de un edificio sean instaladas de
 adentro hacia afuera, esto para que sea más fácil entrar a una habitación o al
 mismo edificio y sea más difícil salir.
 
-#### Tarjetas de acceso
+#### Tarjetas de Acceso
 
 Las **tarjetas de acceso** son medios físicos de autenticación. Pueden usar
 diversas tecnologías: tarjetas de proximidad RFID (125 kHz), tarjetas 13.56 MHz
@@ -97,7 +97,7 @@ prestadas, robadas, clonadas o encontradas. Por eso se recomienda:
 - Implementar factores adicionales de control (e.g., PIN, autenticación
   biométrica o control por tiempo/rol) para áreas críticas.
 
-#### Sistemas biométricos
+#### Sistemas Biométricos
 
 Un **sistema biométrico** verifica la identidad de un usuario en base a rasgos
 fisiológicos o de comportamiento (huella, iris, voz, etc.). Son piezas útiles en
@@ -105,7 +105,7 @@ la autenticación física, pero no son invulnerables; su diseño debe contemplar
 gestión de falsos positivos/negativos, protección de plantillas biométricas y la
 posibilidad de spoofing.
 
-##### Huellas dactilares
+##### Huellas Dactilares
 
 Las **huellas dactilares** se basa en el principio en que no existen dos huellas
 dactilares idénticas. Cada huella tiene un conjunto de pequeños arcos, ángulos,
@@ -116,7 +116,7 @@ Las **huellas dactilares** son analizadas por un escáner táctil, analiza las
 minucias y si cumple con una coincidencia mínima al registro, a un escaneo
 previamente guardado, el sistema valida exitosamente su autenticidad.
 
-##### Sistema de verificación de patrones oculares
+##### Sistema de Verificación de Patrones Oculares
 
 Un **sistema de verificación de patrones oculares** está basado en patrones de
 iris o de retina y a día de hoy se consideran como los más efectivos, ya que en
@@ -127,7 +127,7 @@ través de la pupila. - **Escáner de iris**: Se realiza utilizando una
 videocámara. Examina los patrones de color únicos de los surcos de la parte
 coloreada de nuestros ojos. Este método es el más preciso.
 
-##### Verificación de voz
+##### Verificación de Voz
 
 La **verificación de voz** compara características de la voz (rasgos espectrales
 y características temporales) con plantillas previamente registradas. Existen
@@ -147,7 +147,7 @@ otras representaciones espectrales) y construye una "huella de voz".
 > Cabe destacar que con el auge de la IA, hoy en día existen modelos capaces de
 > replicar la voz, por lo que este método de autenticación ya no es recomendado.
 
-## Medidas de seguridad contra alteración del entorno
+## Medidas de Seguridad Contra Alteración del Entorno
 
 ### Electricidad
 
@@ -194,7 +194,7 @@ son muy usadas en vehículos. Estas baterías inundadas pueden perder eficiencia
 con el tiempo debido a la evaporación del agua destilada, por lo que es
 necesario rellenarlas con agua destilada periódicamente
 
-#### Tomas a tierra
+#### Tomas a Tierra
 
 En un **sistema eléctrico** es indispensable instalar **tomas a tierra** ya que
 estas evitan que equipos eléctricos con fugas de electricidad puedan darnos
@@ -216,7 +216,7 @@ resistencia eléctrica, es decir, hacia la toma a tierra.
 > enchufe hay un tercera línea (por lo general verde), es decir, un cable a >
 > parte del fase y neutro.
 
-#### Ruido eléctrico
+#### Ruido Eléctrico
 
 El **ruido eléctrico** abarca transitorios, oscilaciones y ruidos (EMI) que
 pueden afectar equipos sensibles. Para mitigarlo:
@@ -226,7 +226,7 @@ pueden afectar equipos sensibles. Para mitigarlo:
 - Usar filtros EMI/ RFI y supresores de sobretensión.
 - Mantener buen apantallamiento y continuidad de las mallas de tierra.
 
-### Ventilación y aire acondicionado
+### Ventilación y Aire Acondicionado
 
 Los equipos electrónicos requieren condiciones ambientales controladas para
 garantizar funcionamiento y vida útil. Las temperaturas operativas recomendadas
@@ -238,7 +238,7 @@ varían según el equipo:
   aire típico **18–27°C** (64–81°F) para la mayoría de equipos y ofrece límites
   "permitidos" más amplios según la clase del equipo.
 
-#### Sistemas de climatización
+#### Sistemas de Climatización
 
 Para entornos críticos:
 
@@ -247,7 +247,7 @@ Para entornos críticos:
 - **Sistemas de ventilación**: deben asegurar flujo de aire, distribución
   uniforme y buen intercambio térmico.
 
-#### Control de humedad
+#### Control de Humedad
 
 El control de humedad es importante para evitar corrosión y descargas
 electrostáticas. Las guías ASHRAE muestran rangos aceptables amplios (20–80% RH)
@@ -276,7 +276,7 @@ _sistemas de incendio_ que puedan dañar a los servidores y, en general, a los
 dispositivos electrónicos. En un _centro de datos_, se optan por soluciones como
 cámaras de eliminación de oxígeno o extinción por arena.
 
-#### Alarmas contra incendio
+#### Alarmas Contra Incendio
 
 Es importante instalar **alarmas contra incendios** automáticas, las cuales
 pueden ya sea **activar un _sistema anti-incendio_** o **activar alertar a los
@@ -284,7 +284,7 @@ usuarios**. Asimismo, es importante instalar alarmas manuales para que en caso
 de que la alarma falle y alguna persona detecte fuego o algún peligro que lo
 provoque (e.g., un tanque de gas abierto), pueda alertar a los demás.
 
-#### Extintores y tipos de incendio
+#### Extintores y Tipos de Incendio
 
 Es importante instalar estratégicamente los tipo de extintores adecuados de
 acuerdo al tipo de incendio qué puede ocurrir en cada una de las áreas dentro
@@ -317,11 +317,11 @@ ejemplo:
 Por último, es vital capacitar al personal sobre los tipos de incendios, uso de
 extintores y procedimientos de evacuación.
 
-## Medidas de seguridad ante desastres naturales
+## Medidas de Seguridad Ante Desastres Naturales
 
-### Desastres naturales
+### Desastres Naturales
 
-#### Tormentas eléctricas
+#### Tormentas Eléctricas
 
 Las tormentas eléctricas pueden producir descargas peligrosas y daños por
 sobretensión, causando daños severos a personas, equipos, infraestructura de una
@@ -342,7 +342,7 @@ generales de seguridad:
   estructura metálica del vehículo actúa como una jaula de Faraday, por lo que
   es relativamente segura, pero no se debe tocar la carrocería.
 
-### Respaldo de datos
+### Respaldo de Datos
 
 La política de seguridad debe contemplar copias de respaldo (backups) regulares
 para evitar pérdida de información por destrucción física del soporte o
@@ -364,7 +364,7 @@ sus restauraciones.
 > además, probar periódicamente la restauración para garantizar la validez de
 > los respaldos.
 
-#### Protección de los respaldos de datos
+#### Protección de los Respaldos de Datos
 
 Es importante establecer una **política para las copias de seguridad**, el cuál
 establezca en dónde se almacenarán los respaldos, ya sea en la nube o en algún
@@ -382,7 +382,7 @@ operaciones
 Para proteger aún más la información respaldada, se puede optar por mecanismos
 de cifrado para garantizar la confidencialidad de los datos.
 
-### Centros de datos y servidores
+### Centros de Datos y Servidores
 
 Al instalar un centro de datos es de vital importancia elegir la ubicación más
 idónea, considerando el entorno y cómo puede afectar a nuestro centro de datos,
@@ -405,7 +405,7 @@ Adicionalmente, al instalar un centro de datos se recomienda:
   mitigación contra inundaciones; en zonas con tormentas eléctricas, proteger
   con supresores y pararrayos según normativa aplicable.
 
-## Recursos recomendados
+## Recursos Recomendados
 
 - [Cenace](https://www.gob.mx/cenace)
 - [Seminario puesta a tierra - Genrod](https://www.youtube.com/watch?v=TylWWBLAL5g)

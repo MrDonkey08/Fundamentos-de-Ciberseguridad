@@ -67,7 +67,7 @@ Existen 4 tipos de firewalls:
      - URL Filtering
      - DNS Filtering
 
-## Por Qué Usar Un Firewall
+## Por Qué Usar un Firewall
 
 - **Seguridad básica**: Evita intrusiones desde Internet (e.g., ataques DDoS,
   ransomware).

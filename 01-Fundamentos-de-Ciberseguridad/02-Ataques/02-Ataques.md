@@ -4,9 +4,9 @@ Un **ataque** es un intento intencionado de aprovechar alguna vulnerabilidad de
 un sistema con el fin de conseguir un bien o servicio o dañar de alguna manera
 al negocio o empresa detrás del sistema.
 
-## Tipos de ataques
+## Tipos de Ataques
 
-### Ataques de red
+### Ataques de Red
 
 - **DoS**: Los ataques de **denegación de servicios** o **denial of service
   (DoS)** son un tipo de ataque de red que son relativamente simples de llevar a
@@ -81,7 +81,7 @@ al negocio o empresa detrás del sistema.
     usuario. Cuando un dispositivo es infectado, se le indica al dispositivo
     filtrar datos sensibles del usuario y enviarlos al atacante.
 
-#### Ataques de la capa 2
+#### Ataques de la Capa 2
 
 La **capa 2** se refiere a la **capa de enlace de datos** del **modelo OSI**.
 
@@ -106,14 +106,14 @@ identidad que toma ventaja de la relación de confianza entre dos sistemas.
 - **IP spoofing**: Es cuando se envían paquetes IP de una dirección falsa para
   ocultar el origen del paquete.
 
-##### MAC flooding
+##### MAC Flooding
 
 Los dispositivos de una red son conectados a través de un switch de red al usar
 packet switching para recibir y compartir datos hacia el dispositivo destino. El
 **MAC flooding** es cuando un atacante inunda la red con direcciones MAC falsas,
 comprometiendo la seguridad de la red switch.
 
-### Ataques de contraseñas
+### Ataques de Contraseñas
 
 Los **ataques de contraseñas** consisten en intentar conseguir acceso a
 dispositivos, sistemas, redes o datos protegidos con contraseñas. Algunos tipos
@@ -142,7 +142,7 @@ de ataques de contraseñas son:
   HTTP), es decir, sin cifrar (como lo haría HTTPS), se pueden leer las
   credenciales del usuario.
 
-### Ataques físicos
+### Ataques Físicos
 
 - **Cables maliciosos:** Cables que han sido modificados internamente para
   incluir componentes electrónicos maliciosos (e.g., chips, transmisores) que
@@ -170,7 +170,7 @@ de ataques de contraseñas son:
   fotografía de llaves para reproducción posterior, o uso de herramientas de
   impresión para generar duplicados basándose en patrones visuales.
 
-### Ataques criptográficos
+### Ataques Criptográficos
 
 Un **ataque criptográfico** afecta a las formas de comunicación seguras entre un
 emisor y un receptor. Algunos tipos de ataques criptográficos son:
@@ -179,7 +179,7 @@ emisor y un receptor. Algunos tipos de ataques criptográficos son:
 - Collision.
 - Downgrade.
 
-### Más tipos de ataques
+### Más Tipos de Ataques
 
 - **SEO poisoning**: El **search engine optimización (SEO)** o optimización del
   motor de búsqueda es, en simples términos, la aplicación de técnicas y
@@ -203,7 +203,7 @@ emisor y un receptor. Algunos tipos de ataques criptográficos son:
   terceros, referidos como cadenas de suministros, para infiltrarse en el
   sistema o red del objetivo.
 
-## Complejidad de ataques
+## Complejidad de Ataques
 
 - **Ataques de algoritmo**: Toman ventaja de algoritmos de una pieza de una
   pieza de software legítimo para generar comportamientos no intencionados.

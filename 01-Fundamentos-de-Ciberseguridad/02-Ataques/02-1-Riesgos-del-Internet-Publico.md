@@ -67,9 +67,9 @@ Para llevar a cabo un ataque MitM, se utilizan ataques de spoofing tales como:
   servidores DNS redirijan el tráfico de un dominio legítimo hacia la dirección
   IP de un servicio malicioso. Este tipo de ataque puede ser combinado con un
   ataque ARP spoofing, para que cuando el usuario ingrese a un sitio web (e.g.,
-  <https://facebook.com>) sea redirigido a una página ilegítima (i.e., un clon de
-  Facebook), ingrese sus credenciales de inicio de sesión y estas sean enviadas
-  al host del atacante.
+  <https://facebook.com>) sea redirigido a una página ilegítima (i.e., un clon
+  de Facebook), ingrese sus credenciales de inicio de sesión y estas sean
+  enviadas al host del atacante.
 
 ## Medidas preventivas ante ataques MitM
 
@@ -101,7 +101,7 @@ una comunicación cifrada de los paquetes.
 - Bloqueos de VPN por parte de la empresa.
 - La privacidad no siempre es total.
 
-### HTTPS y certificados SSL/TLS
+### HTTPS y Certificados SSL/TLS
 
 El protocolo **HTTPS**, a diferencia del **HTTP** provee una comunicación
 cifrada entre el cliente y el servidor mediante el uso de certificados SSL/TLS,
@@ -134,7 +134,7 @@ y, en general, cualquier actividad que te pueda perjudicar de alguna manera.
 > a ataques. En su lugar utiliza correos o, inclusive mejor, TOTP mediante apps
 > de autenticación, o llaves de seguridad.
 
-### Medidas preventivas adicionales
+### Medidas Preventivas Adicionales
 
 **Evitar redes públicas para actividades sensibles:** Limitar el uso de redes
 públicas para navegación general, evitando transacciones bancarias o acceso a

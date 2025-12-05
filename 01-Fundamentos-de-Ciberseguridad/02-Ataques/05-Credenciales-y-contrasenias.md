@@ -12,7 +12,7 @@ puede obtener acceso no autorizado al sistema y comprometer la
 **confidencialidad, integridad y disponibilidad (CIA)** de los datos y
 servicios.
 
-## Ataques de contraseñas
+## Ataques de Contraseñas
 
 - **Password spraying**: Consiste en probar una misma contraseña común (e.g.,
   `123456`, `password`, `contraseña`, `admin`) contra múltiples cuentas de
@@ -49,23 +49,23 @@ servicios.
   HTTPS o SSH, se pueden leer datos de los paquetes, como las credenciales del
   usuario cuando inicia sesión.
 
-## Credenciales vulnerables
+## Credenciales Vulnerables
 
-### Contraseñas vulnerables
+### Contraseñas Vulnerables
 
 Existen muchas contraseñas vulnerables porque son contraseñas por defecto de
 algún dispositivo o sistema, son muy comunes, se componen de datos personales,
 han sido expuestas en brechas de seguridad o han sido vulneradas por algún
 ataque de contraseña.
 
-#### Contraseñas por defecto
+#### Contraseñas Por Defecto
 
 - [A1 Security Cameras - Usuarios, contraseñas y direcciones IP por defecto en cámaras de seguridad](https://www.a1securitycameras.com/blog/default-username-passwords-ip-addresses-for-surveillance-cameras/)
 - [IPVM - Directorios de contraseñas de cámaras IP](https://ipvm.com/reports/ip-cameras-default-passwords-directory)
 - [Router Passwords - Contraseñas de routers y dispositivos de red](https://www.routerpasswords.com/)
 - [SecLists - Credenciales por defecto](https://github.com/danielmiessler/SecLists/tree/master/Passwords/Default-Credentials)
 
-### Cuentas vulnerables por brechas de seguridad
+### Cuentas Vulnerables por Brechas de Seguridad
 
 Las cuentas pueden verse comprometidas por brechas de seguridad; por ello es
 recomendable, cuando sea posible, cambiar todos los datos expuestos (e.g.,
@@ -82,7 +82,7 @@ servicio afectado.
 > cuenta, ya que muchos servicios solo ofrecen desactivación en lugar de
 > borrado.
 
-#### Herramientas para revisar si una cuenta ha sido comprometida
+#### Herramientas Para Revisar Si una Cuenta Ha Sido Comprometida
 
 - [Have I Been Pwned](https://haveibeenpwned.com/)
 - [Have I Been Pwned - Passwords](https://haveibeenpwned.com/Passwords)
@@ -98,12 +98,12 @@ servicio afectado.
 > Revisa avisos oficiales de los servicios y actúa (rotación de credenciales,
 > MFA) si hay indicios de compromiso.
 
-### Herramientas relacionadas con credenciales
+### Herramientas Relacionadas con Credenciales
 
 Se distinguen dos grandes grupos: herramientas de cracking/recuperación de
 contraseñas usadas en auditorías y herramientas OSINT para reconocimiento.
 
-#### Cracking de contraseñas (uso legítimo en auditoría)
+#### Cracking de Contraseñas (Uso Legítimo en Auditoría)
 
 - **[Hashcat](https://hashcat.net/hashcat/)** - herramienta avanzada para
   descifrar hashes
@@ -112,7 +112,7 @@ contraseñas usadas en auditorías y herramientas OSINT para reconocimiento.
 - **[Hydra](https://github.com/vanhauser-thc/thc-hydra)** - permite ataques de
   fuerza bruta y diccionario contra varios protocolos
 
-#### OSINT y generación de listas
+#### OSINT y Generación de Listas
 
 - **[Cupp](https://github.com/Mebus/cupp)** - genera listas de contraseñas
   basadas en datos personales
@@ -121,7 +121,7 @@ contraseñas usadas en auditorías y herramientas OSINT para reconocimiento.
 - **[Holehe](https://github.com/megadose/holehe)** - detecta presencia de un
   e-mail en numerosos servicios
 
-## Lineamientos para la creación de contraseñas
+## Lineamientos para la Creación de Contraseñas
 
 Aquí se muestran lineamientos para crear contraseñas seguras. Se recomienda usar
 generadores de contraseñas para obtener valores aleatorios y gestores para
@@ -178,7 +178,7 @@ almacenarlas.
   - **Inserción de caracteres**:
     - Espacios o símbolos al azar: `G@ t0__2025` en lugar de `Gato`.
 
-## Gestión de cuentas y contraseñas
+## Gestión de Cuentas y Contraseñas
 
 - Revisar periódicamente que las cuentas no hayan sido comprometidas (véase la
   sección
@@ -258,7 +258,7 @@ almacenarlas.
 - Verificar URLs y certificados (e.g., comprobar HTTPS y certificado válido)
   antes de introducir credenciales.
 
-## Recursos recomendados
+## Recursos Recomendados
 
 - [OWASP - Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
 - [NIST SP 800-63B - Digital Identity Guidelines](https://pages.nist.gov/800-63-3/sp800-63b.html)

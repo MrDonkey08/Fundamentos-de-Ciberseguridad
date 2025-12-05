@@ -6,7 +6,7 @@
 - **Procedimientos**: Instrucciones paso a paso de cómo realizar una tarea de
   seguridad específica.
 
-## Framework de ciberseguridad
+## Framework de Ciberseguridad
 
 - **Compliance**: Proceso de adherirse a estándares internos y regulaciones
   externas.
@@ -14,7 +14,7 @@
 - **Regulaciones**: Reglas que establecidas por un gobierno u otra autoridad
   para control la manera en que algo es realizado.
 
-### El framework de ciberseguridad NIST (CSF)
+### El Framework de Ciberseguridad NIST (CSF)
 
 Es un framework voluntario que consiste en estándares, lineamientos y las
 mejores prácticas para gestionar los riesgos de ciberseguridad.

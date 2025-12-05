@@ -1,6 +1,6 @@
 # Frameworks y Controles de Seguridad
 
-## Frameworks de seguridad
+## Frameworks de Seguridad
 
 Los **frameworks de seguridad** son conjuntos estructurados de _guidelines_,
 buenas prácticas y estándares que ayudan a construir, mantener y mejorar un
@@ -61,7 +61,7 @@ Algunos controles típicos incluyen:
   autorización ocurre **después de una autenticación exitosa** y asegura que los
   usuarios solo accedan a los recursos para los que están autorizados.
 
-### Controles físicos
+### Controles Físicos
 
 Ejemplos de controles físicos:
 
@@ -74,7 +74,7 @@ Ejemplos de controles físicos:
 
 - Tarjetas de acceso o distintivos para entrar en las oficinas
 
-### Controles técnicos
+### Controles Técnicos
 
 Ejemplos de controles técnicos:
 
@@ -84,7 +84,7 @@ Ejemplos de controles técnicos:
 
 - Software antivirus
 
-### Controles administrativos
+### Controles Administrativos
 
 Ejemplos de controles administrativos:
 

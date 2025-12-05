@@ -7,7 +7,7 @@ autorizados o explotaciones maliciosas.
 
 ## Datos
 
-### Datos personales
+### Datos Personales
 
 - La **personally identifiable information (PII)** o **información personalmente
   identificable** es cualquier tipo de información usada para inferir la
@@ -27,9 +27,9 @@ autorizados o explotaciones maliciosas.
   - Información financiera.
   - Datos biométricos.
 
-### Datos organizativos
+### Datos Organizativos
 
-#### Datos tradicionales
+#### Datos Tradicionales
 
 Los datos tradicionales son generados y mantenidos comúnmente por todas las
 organizaciones, pequeñas y grandes. Incluyen lo siguiente:
@@ -47,14 +47,14 @@ organizaciones, pequeñas y grandes. Incluyen lo siguiente:
 - Los **datos financieros** cuentas de ingresos, estados financieros (balances),
   y estados de flujo efectivo que permiten conocer la salud de una empresa.
 
-#### Datos de Internet de las cosas (IoT) y big data
+#### Datos de Internet de las Cosas (IoT) y Big Data
 
 IoT es una red de objetos físicos (sensores, cámaras, actuadores) conectados a
 Internet que generan grandes volúmenes de datos. El crecimiento del
 almacenamiento en la nube y la virtualización ha favorecido el surgimiento de
 Big Data, lo que plantea nuevos retos de seguridad y privacidad.
 
-## El cubo de la ciberseguridad (McCumber)
+## El Cubo de la Ciberseguridad (McCumber)
 
 El cubo de McCumber es un framework de modelo creado por John McCumber en 1991
 para ayudar a las organizaciones a establecer y evaluar iniciativas de la
@@ -65,7 +65,7 @@ Este modelo de seguridad tiene tres dimensiones:
 2. **Estados de la datos**.
 3. **Protección de los datos**.
 
-### Principios de seguridad
+### Principios de Seguridad
 
 La primera dimensión del cubo de la ciberseguridad identifica los objetivos para
 proteger el ciberespacio. Los principios de **confidencialidad, integridad y
@@ -101,7 +101,7 @@ al experto en ciberseguridad priorizar acciones cuando se protege a un sistema:
   - Mantenimiento de equipos.
   - Planes de recuperación ante desastres.
 
-### Estados de los datos
+### Estados de los Datos
 
 El dominio del ciberespacio contiene una cantidad considerable de datos
 importantes críticos. La segunda dimensión del cubo de la ciberseguridad
@@ -119,7 +119,7 @@ representa los tres estados posibles de los datos:
 Como profesionales de ciberseguridad debemos garantizar la seguridad de datos en
 cada uno de sus estados.
 
-### Protección de los datos
+### Protección de los Datos
 
 La tercera dimensión del cubo de ciberseguridad define los pilares en los que
 necesitaremos basar nuestras defensas de ciberseguridad para proteger los datos
@@ -149,7 +149,7 @@ y la infraestructura en el campo digital.
   - Clasificación de datos.
   - Procedimientos de respuesta a incidentes.
 
-### Activos y gestión de riesgos
+### Activos y Gestión de Riesgos
 
 Un **activo** es cualquier elemento valioso para la organización (datos,
 sistemas, hardware).
@@ -157,7 +157,7 @@ sistemas, hardware).
 Un **riesgo** es cualquier evento que pueda afectar la _confidencialidad_,
 _integridad_, o _disponibilidad_ de un _activo_.
 
-#### Clasificación de activos
+#### Clasificación de Activos
 
 Los activos se pueden clasificar según su _nivel de riesgo_:
 
@@ -174,18 +174,18 @@ Los activos se pueden clasificar según su _nivel de riesgo_:
   las operaciones en ejecución y las finanzas de la organización si es
   comprometida.
 
-## Incidentes de seguridad
+## Incidentes de Seguridad
 
 Un **incidente de seguridad** es un evento que explota una vulnerabilidad en
 sistemas o procesos.
 
-### Brechas de datos
+### Brechas de Datos
 
 Una **brecha de datos** es cualquier incidente de seguridad en el que partes no
 autorizadas acceden a información sensible o confidencial, incluidos datos
 personales y datos organizativos.
 
-#### Consecuencias de una brecha de datos
+#### Consecuencias de una Brecha de Datos
 
 - **Daño a la reputación**: Una brecha de seguridad puede tener impactos
   negativos a largo plazo en la reputación de la organización que ha tardado

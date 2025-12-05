@@ -24,7 +24,7 @@ organización.
   naturales. Se logra a través de redundancia, respaldos y planes de
   recuperación ante desastres.
 
-## Cumplimiento normativo
+## Cumplimiento Normativo
 
 El **cumplimiento normativo (_compliance_)** es el proceso mediante el cual una
 organización se adhiere a normas internas, estándares del sector y regulaciones
@@ -34,7 +34,7 @@ Protección de Datos Personales (México).
 El cumplimiento no solo evita sanciones legales, sino que también mejora la
 reputación y la confianza con clientes y socios.
 
-## Controles de seguridad
+## Controles de Seguridad
 
 Los **controles de seguridad** (_security controls_) son salvaguardas diseñadas
 para reducir riesgos específicos. Se implementan junto con frameworks de
@@ -51,7 +51,7 @@ Pueden clasificarse en:
 - **Controles correctivos**: Mitigan el impacto de incidentes (e.g., planes de
   respuesta)
 
-## Frameworks de seguridad
+## Frameworks de Seguridad
 
 Los **frameworks de seguridad** son frameworks compuestos por guidelines, buenas
 prácticas y estándares que ayudan a construir y mantener un programa de
@@ -62,7 +62,7 @@ seguridad** (_security lifecycle_), es decir, un conjunto dinámico de política
 estándares y procesos que definen cómo una organización gestiona sus riesgos,
 sigue directrices reconocidas y cumple con regulaciones aplicables.
 
-### Propósitos de un framework
+### Propósitos de un Framework
 
 Un framework de seguridad busca:
 
@@ -72,7 +72,7 @@ Un framework de seguridad busca:
 - Gestión riesgos organizativos
 - Alinear la seguridad con los objetivos del negocio
 
-### Componentes de un framework
+### Componentes de un Framework
 
 1. **Identificación**: Definir y documentar los objetivos de seguridad y los
    activos a proteger.

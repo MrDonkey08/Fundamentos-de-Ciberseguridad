@@ -32,7 +32,7 @@ El _Open Web Applications Security Project_ (OWASP)
   identifica vulnerabilidades, y pruebas de conducta para asegurar que la
   corrección se realice correctamente.
 
-## Principios de seguridad de OWASP adicionales
+## Principios de Seguridad de OWASP Adicionales
 
 - **Establecer valores seguros por defecto**: Significa que cuando un control
   falla o se detiene, debería hacerlo por defecto a su opción más segura.

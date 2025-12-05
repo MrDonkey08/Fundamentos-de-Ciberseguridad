@@ -1,6 +1,6 @@
 # Los Dominios de Seguridad CISSP
 
-## 1. Seguridad y gestión de riesgos
+## 1. Seguridad y Gestión de Riesgos
 
 El dominio de **seguridad y gestión de riesgos** establece los principios
 fundamentales sobre los que se basa toda la seguridad de la información dentro
@@ -48,7 +48,7 @@ esta postura incluyen:
   sociedad, actuar con honor, proporcionar servicios competentes, y avanzar la
   profesión.
 
-### Seguridad de la información (_InfoSec_)
+### Seguridad de la Información (_InfoSec_)
 
 La seguridad de la información se refiere a la protección de la
 **confidencialidad, integridad y disponibilidad** (la conocida **triada CIA**)
@@ -72,7 +72,7 @@ información que incluyan:
   - Gestión de accesos e identidades (IAM)
   - Gestión de políticas de seguridad
 
-## 2. Seguridad de los activos
+## 2. Seguridad de los Activos
 
 El dominio de la **seguridad de los activos** implica la gestión de los procesos
 de ciberseguridad de los activos organizativos, incluido el almacenamiento,
@@ -87,7 +87,7 @@ al crear respaldos y asegurarse de que sean capaz de restablecer el entorno si
 un incidente de seguridad de seguridad compromete la seguridad los datos de la
 organización.
 
-## 3. Arquitectura e ingeniería de seguridad
+## 3. Arquitectura e Ingeniería de Seguridad
 
 El dominio de **arquitectura e ingeniería de seguridad** se encarga de gestionar
 la seguridad de los datos. Asegura la existencia de herramientas sistemas, y
@@ -107,7 +107,7 @@ sistema de seguridad. Principios de diseño relacionados a este dominio incluyen
 - Cero confianza
 - Confiar, pero verificar
 
-## 4. Seguridad de las comunicaciones y las redes
+## 4. Seguridad de las Comunicaciones y las Redes
 
 El dominio de **seguridad de las comunicaciones y las redes** se enfoca en
 gestionar y proteger las redes físicas y las comunicaciones inalámbricas. Esto
@@ -120,7 +120,7 @@ Diseñar controles de seguridad (e.g., acceso de red restringido) pueden ayudar 
 proteger a usuarios y red de una organización mantenerse segura cuando los
 empleados viajan o trabajan fuera de la oficina principal.
 
-## 5. Identificación y gestión de accesos
+## 5. Identificación y Gestión de Accesos
 
 El dominio de **identificación y gestión de accesos (IAM)** se centra en
 mantener los datos seguros. Para ello, se asegura de que los usuarios sigan
@@ -163,7 +163,7 @@ requeridos para realizar una tarea.
   intentos de inicio de sesión. Esto permite detectar abusos, fallos de
   seguridad y realizar investigaciones forenses.
 
-## 6. Evaluación y pruebas de seguridad
+## 6. Evaluación y Pruebas de Seguridad
 
 El dominio de **evaluación y pruebas de seguridad** se centra en identificar y
 mitigar los riesgos, amenazas, y vulnerabilidades. La evaluación de seguridad
@@ -180,7 +180,7 @@ los profesionales de ciberseguridad pueden auditar los permisos de usuario para
 validar que los usuarios poseen los niveles correctos de acceso a los sistemas
 internos.
 
-## 7. Operaciones de seguridad
+## 7. Operaciones de Seguridad
 
 El dominio de **operaciones de seguridad** consiste en la investigación de una
 brecha de datos potencial y de la implementación de las medidas preventivas
@@ -204,7 +204,7 @@ ataques activos. Una vez que una amenaza es identificada, el equipo trabaja
 cuidadosamente para mantener los datos y la información privada segura de
 actores de amenaza.
 
-## 8. Seguridad en el desarrollo de software
+## 8. Seguridad en el Desarrollo de Software
 
 El dominio de **seguridad en el desarrollo de software** se enfoca en el uso de
 prácticas y guidelines (lineamientos) de programación segura para desarrollar

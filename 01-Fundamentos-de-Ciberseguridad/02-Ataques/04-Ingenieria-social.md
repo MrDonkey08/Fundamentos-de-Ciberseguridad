@@ -6,7 +6,7 @@ o bienes. El error humano es usualmente el resultado de confiar en alguien
 ciegamente. La misión del actor de amenaza es crear un entorno de confianza
 falsa y mentiras para aprovecharse de tantas personas como sea posible.
 
-## Ataques de ingeniería social
+## Ataques de Ingeniería Social
 
 Existen muchos tipos de ingeniería, entre ellas se encuentran:
 
@@ -107,7 +107,7 @@ personas para que revelen datos sensibles o despliegue software malicioso.
   atacantes instalan AP fraudulentos o comprometen existentes para interceptar
   el tráfico o redirigir usuarios a sitios webs maliciosos.
 
-## Principios de ingeniería social
+## Principios de Ingeniería Social
 
 La **ingeniería social** es increíblemente efectiva. Esto porque la gente
 generalmente confían y están condicionados a respetar a personas de autoridad.

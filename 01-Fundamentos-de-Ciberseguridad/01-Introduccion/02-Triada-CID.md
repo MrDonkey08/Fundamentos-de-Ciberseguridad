@@ -24,7 +24,7 @@ y comunicaciones de una organización. Cuando esta información es compartida co
 otros, IRM permite al propietario del documento, a la organización, o a uno de
 sus miembros controlar y gestionar acceso al documento.
 
-## Integridad de los datos
+## Integridad de los Datos
 
 La **integridad** es la precisión, consistencia y fiabilidad de los datos a
 través de su ciclo de vida entero.
@@ -54,7 +54,7 @@ todos los usuarios autorizados para cualquier momento que lo necesiten. Los
 ciberatacantes y fallos del sistema pueden evitar el acceso a la información,
 sistemas, y servicios.
 
-### Asegurar la disponibilidad
+### Asegurar la Disponibilidad
 
 Existen muchas medidas que las organizaciones pueden implementar para asegurar
 la disponibilidad de de sus servicios y sistemas. Algunos ejemplos son:

@@ -5,7 +5,7 @@
 Una **amenaza** es cualquier circunstancia o evento que puede impactar
 negativamente a los activos.
 
-### Tipos de amenazas
+### Tipos de Amenazas
 
 - Malware.
 - Ataques.
@@ -16,7 +16,7 @@ negativamente a los activos.
   - Ataques de contraseñas.
   - Explotación de vulnerabilidades zero-day.
 
-### Actores de amenaza
+### Actores de Amenaza
 
 Un **threat actor**, o **actor de amenaza** es cualquier persona o grupo de
 personas que presenta un riesgo de seguridad. Un actor de amenaza comprende
@@ -24,7 +24,7 @@ tanto **actores maliciosos (atacantes)** como **actores no maliciosos** (o no
 mal intencionados). Este riesgo puede relacionarse con computadoras,
 aplicaciones, redes y datos.
 
-#### Amenazas internas
+#### Amenazas Internas
 
 Las **amenazas internas** son usualmente realizadas por empleados y
 ex-empleados, socios de confianza y personal contratado al accidental o
@@ -50,7 +50,7 @@ datos que pueden dañar a una organización. Sus intenciones pueden incluir:
 - Acceso de datos no autorizado.
 - Filtración de datos.
 
-#### Amenazas externas
+#### Amenazas Externas
 
 Las **amenazas externas** pueden ser realizadas por atacantes principiantes o
 expertos fuera de la organización al:
@@ -109,7 +109,7 @@ Una **vulnerabilidad** es una debilidad que puede ser explotada por una amenaza.
 Por lo tanto, las organizaciones deben inspeccionar regularmente las
 vulnerabilidades de sus sistemas.
 
-### Tipos de vulnerabilidades
+### Tipos de Vulnerabilidades
 
 - **Contraseñas débiles**: Contraseñas comunes, cortas, patrones o secuencias
   numéricas o alfabéticas; contraseñas asociadas con datos personales (PII),

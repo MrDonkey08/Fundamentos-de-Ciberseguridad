@@ -5,9 +5,9 @@ Por lo tanto, las organizaciones deben inspeccionar regularmente las
 vulnerabilidades de sus sistemas, clasificarlas y aplicar medidas de mitigación
 adecuadas.
 
-## Vulnerabilidades de hardware
+## Vulnerabilidades de Hardware
 
-### Vulnerabilidades de gestión de hardware y dispositivos físicos
+### Vulnerabilidades de Gestión de Hardware y Dispositivos Físicos
 
 - **Hardware desactualizado**: El hardware antiguo puede ser propenso a fallos
   de seguridad y dejar de recibir soporte de parches.
@@ -25,7 +25,7 @@ adecuadas.
 - **Equipos sin autenticación habilitada**: Dispositivos que no requieren PIN,
   contraseña, datos biométricos, etc., facilitan accesos no autorizados.
 
-### Vulnerabilidades de arquitectura de hardware
+### Vulnerabilidades de Arquitectura de Hardware
 
 - **Meltdown**: Permite a un atacante leer memoria privilegiada de procesos o
   del kernel en CPUs modernas.
@@ -33,9 +33,9 @@ adecuadas.
 - **Spectre**: Explotación de la ejecución especulativa en CPUs que permite
   filtrar datos de otros procesos.
 
-## Vulnerabilidades de software
+## Vulnerabilidades de Software
 
-### Manejo de software
+### Manejo de Software
 
 - **Contraseñas débiles**: Contraseñas comunes, cortas, con patrones simples o
   asociadas a datos personales tal como nombre de usuario, correo electrónico,
@@ -66,7 +66,7 @@ adecuadas.
   archivo). Controles mal definidos permiten a usuarios realizar acciones fuera
   de su rol autorizado.
 
-### Vulnerabilidades generales de software
+### Vulnerabilidades Generales de Software
 
 - **Buffer overflow**: Los **buffers** son áreas de memoria asignadas a una
   aplicación. El **buffer overflow** sucede cuando los datos son escritos más
@@ -106,7 +106,7 @@ adecuadas.
   estas técnicas y librerías que ya han sido creadas, testeadas y verificadas, y
   no deberían intentar crear sus propios algoritmos de seguridad.
 
-### Explotación de vulnerabilidades de software (ataques)
+### Explotación de Vulnerabilidades de Software (Ataques)
 
 - **Directory Traversal**: Consiste en la explotación de vulnerabilidades que
   permiten acceder a recursos de un servidor fuera del directorio previsto
@@ -140,7 +140,7 @@ adecuadas.
   (e.g., CPU, RAM) de una máquina objetivo (e.g., un servidor), provocando que
   el sistema falle o se congele.
 
-#### Inyección de código
+#### Inyección de Código
 
 - **Cross-Site Scripting (XSS)**: Inyección de scripts maliciosos en
   aplicaciones web. Puede robar sesiones, modificar contenido o robar datos.
@@ -188,7 +188,7 @@ adecuadas.
   cibercriminales una oportunidad de extraer información sensible de un
   directorio LDAP de una organización.
 
-### Vulnerabilidades críticas en software
+### Vulnerabilidades Críticas en software
 
 - **ProxyLogon**: Una vulnerabilidad pre-autenticada que afecta al servidor
   Microsoft Exchange. Permite a un actor de amenazas autenticarse sin

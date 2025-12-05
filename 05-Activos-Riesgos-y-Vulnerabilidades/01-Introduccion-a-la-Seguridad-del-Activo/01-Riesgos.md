@@ -1,4 +1,4 @@
-# Riego, amenazas, y vulnerabilidades
+# Riego, Amenazas, y Vulnerabilidades
 
 Un **activo** es cualquier elemento valioso para la organización (datos,
 sistemas, hardware).
@@ -12,7 +12,7 @@ integridad, o disponibilidad de un activo.
 Una **vulnerabilidad** es una debilidad que puede ser explotada por una amenaza
 para violar un sistema o la información que este contiene.
 
-## Planificación de riesgos de seguridad
+## Planificación de Riesgos de Seguridad
 
 Una manera de interpretar el riesgo es considerar los potenciales efectos que
 eventos negativos pueden tener en un negocio. Otra manera de representar es

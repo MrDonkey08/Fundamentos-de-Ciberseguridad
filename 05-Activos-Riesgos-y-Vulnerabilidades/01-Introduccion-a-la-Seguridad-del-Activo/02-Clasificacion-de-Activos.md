@@ -8,7 +8,7 @@ La _gestión de activos_ es importante debido a que permite a las organizaciones
 conocer sus activos, clasificarlos según su nivel de importancia y sensibilidad
 y, con ello, priorizar los recursos de seguridad.
 
-## Tipos de activos
+## Tipos de Activos
 
 Las organizaciones protegen una variedad de diferentes activos. Por ejemplo:
 
@@ -18,7 +18,7 @@ Las organizaciones protegen una variedad de diferentes activos. Por ejemplo:
 - **Activos intangibles** como la reputación de la marca o propiedad
   intelectual.
 
-## Inventario de activos
+## Inventario de Activos
 
 El primer paso de la _gestión de activos_ es el **inventariado de activos**. Es
 indispensable llevar un registro y conteo de los activos que necesitan ser
@@ -27,7 +27,7 @@ protegidos.
 Uno de los beneficios del inventariado de activos es que permite recibir una
 alerta si alguno de los activos es comprometido.
 
-## Clasificación de activos
+## Clasificación de Activos
 
 La **clasificación de activos** es la práctica de etiquetar los activos en base
 a su sensibilidad e importancia para una organización. El determinar cada uno de
@@ -43,12 +43,12 @@ La _clasificación de activos_ ayuda a las organizaciones a implementar
 estrategias efectivas de gestión de riesgos. También ayuda a priorizar recursos
 de seguridad, reducir costos de IT y cumplir con regulaciones legales.
 
-### Esquemas de clasificación de activos
+### Esquemas de Clasificación de Activos
 
 Dentro de la ciberseguridad existen muchos esquemas de clasificación de activos.
 Cada organización elige su esquema dependiendo de sus necesidades específicas.
 
-#### Clasificación de activos según su nivel de accesibilidad
+#### Clasificación de Activos Según su Nivel de Accesibilidad
 
 Este esquema es el más popular de clasificación de activos. Los activos se
 clasifican de la siguiente manera:
@@ -66,7 +66,7 @@ clasifican de la siguiente manera:
 - **Restringido**: Activos confidenciales y altamente sensibles. Pueden provocar
   un impacto negativo alto si son comprometidos.
 
-#### Clasificación de activos según el nivel de riesgo
+#### Clasificación de Activos Según el Nivel de Riesgo
 
 Este otro esquema también es muy popular. Los activos se clasifican de la
 siguiente manera:

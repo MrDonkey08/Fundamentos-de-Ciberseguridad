@@ -86,8 +86,8 @@ refiere a la salud física o mental pasada, presente o futura o al estado de
 salud de una persona, ya se trate de un plan de atención o de pagos por la
 atención. Además de conocer la ley HIPAA, los profesionales de la seguridad
 deben estar familiarizados con la Alianza para la Confianza en la Información
-Sanitaria (HITRUST®), que es un marco de seguridad y un programa de garantía
-que ayuda a las instituciones a cumplir la ley HIPAA.
+Sanitaria (HITRUST®), que es un marco de seguridad y un programa de garantía que
+ayuda a las instituciones a cumplir la ley HIPAA.
 
 ## Organización Internacional de Normalización (ISO)
 

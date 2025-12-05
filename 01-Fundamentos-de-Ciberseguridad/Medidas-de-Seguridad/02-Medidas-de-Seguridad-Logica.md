@@ -7,7 +7,7 @@ protección de la información en su propio medio contra robo o destrucción,
 haciendo uso de la criptografía, firma digital, administración de la seguridad y
 limitaciones de accesibilidad a los usuarios.
 
-## Controles de acceso lógico
+## Controles de Acceso Lógico
 
 Los **controles de acceso lógico** son las soluciones hardware y software usadas
 para gestionar el acceso a los recursos y los sistemas. Estas soluciones
@@ -33,7 +33,7 @@ Algunos ejemplos de _controles de acceso lógico_ son:
 - Los umbrales de alerta son ciertos límites de error permitidos antes de
   activar una bandera roja.
 
-## Controles de acceso administrativo
+## Controles de Acceso Administrativo
 
 Los **controles de acceso administrativo** son las políticas y los
 procedimientos definidos por las organizaciones para aplicar y hacer cumplir
@@ -66,7 +66,7 @@ Un identificador único asegura que un sistema pueda identificar a cada usuario
 individualmente, permitiendo así a un usuario realizar acciones apropiadas en un
 recurso en particular.
 
-## Autenticación, autorización, y gestión de cuentas (AAA)
+## Autenticación, Autorización, y Gestión de Cuentas (AAA)
 
 Los conceptos de **control de acceso administrativo** involucran tres servicios
 de seguridad: autenticación, autorización y gestión de cuentas. Estos servicios
@@ -96,7 +96,7 @@ datos.
   sistemas pueden establecer políticas informáticas para permitir la auditoría
   del sistema.
 
-## Gestión de identidades federadas
+## Gestión de Identidades Federadas
 
 La **gestión de identidades federadas (FIM)** se refiere a las múltiples
 empresas que permiten a sus usuarios utilizar las mismas credenciales de

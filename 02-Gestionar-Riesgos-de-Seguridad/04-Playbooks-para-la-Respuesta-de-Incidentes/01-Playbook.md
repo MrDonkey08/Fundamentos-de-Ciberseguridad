@@ -13,7 +13,7 @@ potencial. Las guías de actuación garantizan que las personas sigan una lista
 coherente de acciones de una manera prescrita, independientemente de quién esté
 trabajando en el caso.
 
-## Aplicaciones de los playbooks
+## Aplicaciones de los Playbooks
 
 Los playbooks pueden ser utilizados para:
 
@@ -23,7 +23,7 @@ Los playbooks pueden ser utilizados para:
 - Ataques _Denial of service_ (DoS)
 - Alertas de servicios
 
-## Tipos de playbooks
+## Tipos de Playbooks
 
 Se utilizan distintos playbooks. Entre ellos se encuentran:
 
@@ -31,7 +31,7 @@ Se utilizan distintos playbooks. Entre ellos se encuentran:
 - Alertas de seguridad
 - Equipos específicos y productos específicos.
 
-### Respuesta al incidente
+### Respuesta al Incidente
 
 Un intento rápido de una organización de identificar un ataque, contener el
 daño, y corregir los efectos de una brecha de seguridad.
